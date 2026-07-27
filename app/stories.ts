@@ -298,6 +298,21 @@ export const caseMedia: Record<string, {
     youtube: "N7tTnf9b77M",
   },
   mb301: { image: "/MZOS/assets/mb301.webp" },
+  "d2-racing": {
+    gallery: [
+      "/MZOS/assets/d2-brake-caliper.jpg",
+      "/MZOS/assets/d2-coilovers.jpg",
+      "/MZOS/assets/d2-paddock.jpg",
+      "/MZOS/assets/d2-logo.png",
+    ],
+    galleryCaptions: [
+      "Pinza freno D2 Racing Sport",
+      "Sospensioni e componenti di regolazione",
+      "Presenza D2 nelle competizioni sportive",
+      "Marchio D2 Racing Sport Europe",
+    ],
+    youtube: "Q3d5KSSh6rI",
+  },
   "stabilimento-aef": { gallery: ["/MZOS/assets/aef-1.webp", "/MZOS/assets/aef-2.webp"] },
   "power-center": {
     gallery: [

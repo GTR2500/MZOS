@@ -26,6 +26,7 @@ export type CaseStudy = {
   result: string;
   implication: string;
   featured?: boolean;
+  fundamental?: boolean;
 };
 
 export const capabilities: Capability[] = [
@@ -36,7 +37,7 @@ export const capabilities: Capability[] = [
   "Sistema",
 ];
 
-export const cases: CaseStudy[] = [
+const chronologicalCases: CaseStudy[] = [
   {
     id: "rettifiche-cnc",
     number: "01",
@@ -78,6 +79,7 @@ export const cases: CaseStudy[] = [
     result: "Nel 2025 arrivò una conferma diretta: la macchina era stata progettata seguendo quelle indicazioni. La soluzione pubblica Applyca ne documenta l’evoluzione industriale e le funzioni finali.",
     implication: "Un’idea industriale diventa prova quando altri riescono a costruirla, farla evolvere e portarla davanti al mercato.",
     featured: true,
+    fundamental: true,
   },
   {
     id: "wmc-inside",
@@ -92,6 +94,7 @@ export const cases: CaseStudy[] = [
     result: "Il prototipo divenne WMC Inside, prodotto Hantarex documentato e commercializzato. L'azienda e il prodotto ricevettero due Green Button Award Microsoft nel 2004 e nel 2005; Hantarex ne curò industrializzazione e unità commerciali.",
     implication: "Non è una lettura costruita dopo l'arrivo delle smart TV: manuali, immagini e riconoscimenti documentano che quell'oggetto esisteva già.",
     featured: true,
+    fundamental: true,
   },
   {
     id: "fiumicino-digital",
@@ -120,6 +123,7 @@ export const cases: CaseStudy[] = [
     result: "Nuova versione a catalogo e in produzione in tre taglie; linee dimensionate per una capacità prevista di circa 5.000 unità annue.",
     implication: "Il prodotto è completo solo quando l’impresa possiede anche il sistema capace di ripeterlo.",
     featured: true,
+    fundamental: true,
   },
   {
     id: "virus-3",
@@ -134,6 +138,7 @@ export const cases: CaseStudy[] = [
     result: "Il concept diventò una Virus 3 Classe III industriale attraverso una costruzione più semplice, scelta dall’azienda per vincoli ricostruiti come economici, produttivi e di rischio.",
     implication: "La semplificazione può essere la prima tappa. Senza roadmap e business case, rischia di diventare la rinuncia definitiva alla visione originaria.",
     featured: true,
+    fundamental: true,
   },
   {
     id: "mb301",
@@ -147,6 +152,7 @@ export const cases: CaseStudy[] = [
     move: "Una piattaforma comune con risalita configurabile, componenti ripetibili e una logica coerente per sbarre, aerazione e accessi.",
     result: "MB301 arrivò al prototipo e alla documentazione di progetto; il passaggio alla produzione si fermò davanti ai costi di certificazione.",
     implication: "Una piattaforma di prodotto riduce la complessità solo quando l’impresa può sostenere anche l’investimento necessario ad adottarla.",
+    fundamental: true,
   },
   {
     id: "goppion-anta",
@@ -299,8 +305,32 @@ export const cases: CaseStudy[] = [
     result: "D2 collegò prodotto, canale digitale e comunità racing; MZB non contiene risultati commerciali quantitativi e il caso non li inventa.",
     implication: "Un sistema ben disegnato può amplificare una struttura piccola senza fingere che sia grande.",
     featured: true,
+    fundamental: true,
   },
 ];
+
+const fundamentalCaseOrder = [
+  "d2-racing",
+  "wmc-inside",
+  "safemate-classe-ii",
+  "virus-3",
+  "robolaser-applyca",
+  "mb301",
+] as const;
+
+const fundamentalRank = new Map<string, number>(
+  fundamentalCaseOrder.map((id, index) => [id, index]),
+);
+
+export const cases: CaseStudy[] = [...chronologicalCases].sort((a, b) => {
+  const aRank = fundamentalRank.get(a.id);
+  const bRank = fundamentalRank.get(b.id);
+
+  if (aRank !== undefined && bRank !== undefined) return aRank - bRank;
+  if (aRank !== undefined) return -1;
+  if (bRank !== undefined) return 1;
+  return Number(a.number) - Number(b.number);
+});
 
 export const caseDomains: Record<string, Domain[]> = {
   "rettifiche-cnc": ["Meccanica", "Automazione", "Industrializzazione"],

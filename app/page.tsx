@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useMemo, useRef, useState } from "react";
+import { Fragment, useEffect, useMemo, useRef, useState } from "react";
 import gsap from "gsap";
 import {
   Bot,
@@ -420,15 +420,24 @@ export default function Home() {
           </div>
           <p className="insight-line" aria-live="polite">{insight}</p>
           <div className="case-list">
-            {visibleCases.map((item) => (
-              <button className="case-row" type="button" key={item.id} onClick={() => openCase(item)}>
-                <span className="row-number">{item.number}</span>
-                <span className="row-copy">
-                  <strong>{item.title}</strong>
-                  <small>{item.context}</small>
-                </span>
-                <span className="row-arrow" aria-hidden="true">→</span>
-              </button>
+            {filter === ALL && <p className="case-tier-label case-tier-label-fundamental">Casi fondamentali</p>}
+            {visibleCases.map((item, index) => (
+              <Fragment key={item.id}>
+                {filter === ALL && index === 6 && <p className="case-tier-label">Altre storie</p>}
+                <button
+                  className={`case-row ${item.fundamental ? "case-row-fundamental" : ""}`}
+                  type="button"
+                  onClick={() => openCase(item)}
+                >
+                  <span className="row-number">{item.number}</span>
+                  <span className="row-copy">
+                    {item.fundamental && <em>Caso fondamentale</em>}
+                    <strong>{item.title}</strong>
+                    <small>{item.context}</small>
+                  </span>
+                  <span className="row-arrow" aria-hidden="true">→</span>
+                </button>
+              </Fragment>
             ))}
           </div>
         </aside>
