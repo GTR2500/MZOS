@@ -420,7 +420,7 @@ export default function Home() {
           </div>
           <p className="insight-line" aria-live="polite">{insight}</p>
           <div className="case-list">
-            {filter === ALL && <p className="case-tier-label case-tier-label-fundamental">Casi fondamentali</p>}
+            {filter === ALL && <p className="case-tier-label case-tier-label-fundamental">Storie in evidenza oggi</p>}
             {visibleCases.map((item, index) => (
               <Fragment key={item.id}>
                 {filter === ALL && index === 6 && <p className="case-tier-label">Altre storie</p>}
@@ -431,7 +431,7 @@ export default function Home() {
                 >
                   <span className="row-number">{item.number}</span>
                   <span className="row-copy">
-                    {item.fundamental && <em>Caso fondamentale</em>}
+                    {item.fundamental && <em>In evidenza oggi</em>}
                     <strong>{item.title}</strong>
                     <small>{item.context}</small>
                   </span>

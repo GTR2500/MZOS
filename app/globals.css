@@ -741,8 +741,8 @@ button { color: inherit; }
 }
 
 .case-tier-label-fundamental {
-  background: var(--fundamental-deep);
-  color: rgba(255, 255, 255, .58);
+  background: linear-gradient(90deg, rgba(189, 139, 82, .075), rgba(189, 139, 82, .018) 72%, transparent);
+  color: #765b3e;
 }
 
 .case-row {
@@ -778,22 +778,20 @@ button { color: inherit; }
 .case-row:hover .row-arrow { color: var(--accent); transform: translateX(3px); }
 
 .case-row-fundamental {
-  border-bottom-color: rgba(255, 255, 255, .1);
-  background:
-    linear-gradient(100deg, rgba(189, 139, 82, .11), transparent 52%),
-    var(--fundamental-deep);
-  color: #f6f2ec;
+  border-left: 2px solid rgba(189, 139, 82, .28);
+  border-bottom-color: var(--line);
+  background: linear-gradient(100deg, rgba(189, 139, 82, .06), rgba(189, 139, 82, .012) 58%, transparent);
+  color: var(--ink);
 }
 
 .case-row-fundamental .row-number,
-.case-row-fundamental .row-arrow { color: var(--fundamental); }
-.case-row-fundamental .row-copy small { color: rgba(255, 255, 255, .54); }
+.case-row-fundamental .row-arrow { color: #936b42; }
+.case-row-fundamental .row-copy em { color: #87623d; }
+.case-row-fundamental .row-copy small { color: var(--ink-soft); }
 .case-row-fundamental:hover {
-  background:
-    linear-gradient(100deg, rgba(189, 139, 82, .2), transparent 58%),
-    #2c2420;
+  background: linear-gradient(100deg, rgba(189, 139, 82, .105), rgba(255, 255, 255, .9) 64%);
 }
-.case-row-fundamental:hover .row-arrow { color: #e2b477; }
+.case-row-fundamental:hover .row-arrow { color: var(--accent); }
 
 .statusbar {
   display: flex;
