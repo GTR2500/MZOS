@@ -1,0 +1,17 @@
+﻿{
+    "schema_version":  1,
+    "brand":  "MZ Executive OS",
+    "release":  "v1.0.0",
+    "status":  "OWNER_APPROVED / AUTHORITATIVE",
+    "source_binding":  "monogram.warm_brass_raster",
+    "source_path_mzb":  "09_VISUAL_IDENTITY/02_logo/exports/MZ_MONOGRAM_WARM_BRASS_2048.png",
+    "asset":  {
+                  "path":  "public/brand-assets/v1.0.0/monogram/MZ_MONOGRAM_WARM_BRASS_2048.png",
+                  "raw_url":  "https://raw.githubusercontent.com/GTR2500/MZOS/main/public/brand-assets/v1.0.0/monogram/MZ_MONOGRAM_WARM_BRASS_2048.png",
+                  "sha256":  "6dca84d48971ed19a7f8ad58204829f1c28354bd5fce11c0e1a32a16338f0fac",
+                  "format":  "PNG",
+                  "width":  2048,
+                  "height":  2048,
+                  "alpha":  "RGBA transparent"
+              }
+}
