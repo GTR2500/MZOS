@@ -292,6 +292,7 @@ export default function Home() {
         </a>
         <p>Portfolio · Industrial Transformation</p>
         <div className="topbar-actions">
+          <a className="quiet-action" href="/MZOS/articles/" style={{ textDecoration: "none" }}>Articoli</a>
           <a
             className="linkedin-action"
             href="https://www.linkedin.com/in/manuelzago/"
