@@ -1,5 +1,866 @@
 export const articles = [
   {
+    "id": "cmsem44yv0005uk7kdvamp2i4",
+    "slug": "la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916",
+    "title": "La piramide non è sparita. È crollata addosso alle persone.",
+    "subtitle": "L’AI non sta eliminando il lavoro manageriale. Sta rendendo più facile nasconderne il costo.",
+    "abstract": "L’AI non sta eliminando il lavoro manageriale. Sta rendendo più facile nasconderne il costo.",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "La piramide non è sparita. È crollata addosso alle persone.",
+    "seoDescription": "L’AI non sta eliminando il lavoro manageriale. Sta rendendo più facile nasconderne il costo.",
+    "publishedAt": "2026-08-04T12:12:32.855Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916/cover.jpg",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "La piramide non è sparita. È crollata addosso alle persone."
+      },
+      {
+        "type": "heading",
+        "text": "L’AI non sta eliminando il lavoro manageriale. Sta rendendo più facile nasconderne il costo."
+      },
+      {
+        "type": "paragraph",
+        "text": "C’è un modo molto elegante per peggiorare un’azienda."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si eliminano alcuni livelli manageriali."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si presenta il taglio come semplificazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si distribuiscono le responsabilità sulle persone rimaste."
+      },
+      {
+        "type": "paragraph",
+        "text": "Infine, quando il sistema comincia a perdere direzione, si accusa la cultura aziendale di non essere abbastanza agile."
+      },
+      {
+        "type": "paragraph",
+        "text": "@Fortune Italia ha pubblicato un articolo dal titolo significativo: “I tagli ai manager intermedi costeranno salato nel 2028”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il punto è corretto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma il problema potrebbe essere ancora più grave."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché molte imprese non stanno semplicemente eliminando dei manager."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Stanno smontando il meccanismo che trasformava la strategia in lavoro reale.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "E lo stanno facendo mentre si convincono che l’intelligenza artificiale possa sostituire ciò che non hanno mai compreso davvero."
+      },
+      {
+        "type": "heading",
+        "text": "Una previsione che dovrebbe inquietare i consigli di amministrazione"
+      },
+      {
+        "type": "paragraph",
+        "text": "Secondo @Gartner, entro la fine del 2026 il 20% delle organizzazioni utilizzerà l’intelligenza artificiale per appiattire la propria struttura, eliminando più della metà delle attuali posizioni di middle management."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tradotto senza linguaggio da consulenza:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un’azienda su cinque potrebbe cancellare almeno un manager intermedio su due."
+      },
+      {
+        "type": "paragraph",
+        "text": "La giustificazione sarà sempre convincente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Meno livelli."
+      },
+      {
+        "type": "paragraph",
+        "text": "Meno costi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Più velocità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Più autonomia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Più AI."
+      },
+      {
+        "type": "paragraph",
+        "text": "Peccato che togliere una casella dall’organigramma non elimini il lavoro contenuto in quella casella."
+      },
+      {
+        "type": "paragraph",
+        "text": "Qualcuno dovrà ancora stabilire le priorità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Qualcuno dovrà ancora coordinare funzioni che misurano il successo con indicatori differenti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Qualcuno dovrà decidere quando produzione, qualità, progettazione e vendite vogliono quattro cose incompatibili."
+      },
+      {
+        "type": "paragraph",
+        "text": "Qualcuno dovrà accorgersi che una persona competente si sta disimpegnando prima di ricevere la sua lettera di dimissioni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quel lavoro non scompare."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Cambia vittima.**"
+      },
+      {
+        "type": "heading",
+        "text": "Il primo trucco: chiamare autonomia ciò che è abbandono"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il lavoro manageriale viene scaricato sull’ingegnere che dovrebbe progettare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sul tecnico che dovrebbe risolvere problemi complessi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sul responsabile di funzione che dovrebbe sviluppare il proprio sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sul dirigente che passa da otto riporti diretti a venti, trenta o quaranta persone delle quali non riesce più a conoscere realmente attività, capacità e criticità."
+      },
+      {
+        "type": "paragraph",
+        "text": "A quel punto tutti diventano più “responsabili”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma spesso nessuno dispone del tempo, delle informazioni, dell’autorità e delle competenze per governare davvero il risultato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questa non è autonomia."
+      },
+      {
+        "type": "paragraph",
+        "text": "È esposizione organizzativa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Significa mettere persone competenti in una condizione nella quale devono continuamente occuparsi di problemi estranei alla propria specializzazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ingegnere non progetta più soltanto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Coordina."
+      },
+      {
+        "type": "paragraph",
+        "text": "Media."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rincorre."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sollecita."
+      },
+      {
+        "type": "paragraph",
+        "text": "Convoca."
+      },
+      {
+        "type": "paragraph",
+        "text": "Documenta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Giustifica."
+      },
+      {
+        "type": "paragraph",
+        "text": "Copre i vuoti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi l’azienda si domanda perché la produttività tecnica sia diminuita."
+      },
+      {
+        "type": "heading",
+        "text": "I numeri hanno già iniziato a parlare"
+      },
+      {
+        "type": "paragraph",
+        "text": "La Workforce 2025 Survey di @Korn Ferry rileva che il 41% dei lavoratori intervistati opera in organizzazioni che hanno ridotto i livelli manageriali."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nelle stesse organizzazioni, il 43% dei dipendenti afferma che i leader non sono allineati e il 37% dichiara che la mancanza di manager li ha lasciati senza una direzione chiara."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quindi abbiamo:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 41% che taglia la struttura."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 43% che percepisce disallineamento al vertice."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 37% che non sa chiaramente dove stia andando."
+      },
+      {
+        "type": "paragraph",
+        "text": "Possiamo certamente continuare a chiamarla agilità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma dovremmo almeno avere il coraggio di ammettere che assomiglia molto a un’azienda nella quale la catena di trasmissione si è spezzata."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il vertice pensa di aver comunicato."
+      },
+      {
+        "type": "paragraph",
+        "text": "La base pensa di aver capito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nel mezzo nessuno verifica che strategia, priorità ed esecuzione siano ancora la stessa cosa."
+      },
+      {
+        "type": "heading",
+        "text": "Il 70% che nessuno dovrebbe ignorare"
+      },
+      {
+        "type": "paragraph",
+        "text": "Secondo @Gallup, il manager determina circa il 70% della variabilità nell’engagement di un gruppo di lavoro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il dato non significa che ogni manager sia utile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Significa qualcosa di più scomodo."
+      },
+      {
+        "type": "paragraph",
+        "text": "**La qualità manageriale ha un effetto enorme sul comportamento delle persone.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un buon manager chiarisce le aspettative, protegge le priorità, sviluppa competenze, riconosce i segnali deboli e crea le condizioni affinché le persone possano concentrarsi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un cattivo manager moltiplica riunioni, interferenze, paura, ambiguità e controllo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La risposta intelligente sarebbe eliminare il cattivo management."
+      },
+      {
+        "type": "paragraph",
+        "text": "La risposta più semplice è eliminare i manager."
+      },
+      {
+        "type": "paragraph",
+        "text": "È come scoprire che alcuni chirurghi operano male e decidere di ridurre il numero delle sale operatorie."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il problema non è la presenza della funzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "È la qualità con cui viene svolta."
+      },
+      {
+        "type": "heading",
+        "text": "Il manager non è inutile. È utilizzato male."
+      },
+      {
+        "type": "paragraph",
+        "text": "@McKinsey & Company ha rilevato che i manager intermedi trascorrono quasi tre quarti del proprio tempo in attività non direttamente legate alla gestione e allo sviluppo delle persone."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quasi metà del loro tempo viene assorbita da lavoro non manageriale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Circa un’intera giornata alla settimana viene consumata da attività amministrative."
+      },
+      {
+        "type": "paragraph",
+        "text": "Meno di un terzo del tempo è dedicato a persone, coaching e sviluppo del talento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo dato dovrebbe produrre una decisione precisa:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Automatizzare la burocrazia per restituire ai manager il tempo di gestire."
+      },
+      {
+        "type": "paragraph",
+        "text": "Invece molte aziende sembrano giungere alla conclusione opposta:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Poiché il manager passa troppo tempo in attività inutili, eliminiamo il manager e distribuiamo quelle stesse attività sulle persone operative."
+      },
+      {
+        "type": "paragraph",
+        "text": "È una soluzione straordinaria."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si conserva il lavoro inutile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si elimina chi avrebbe dovuto impedirgli di divorare l’organizzazione."
+      },
+      {
+        "type": "heading",
+        "text": "La struttura piatta non elimina la gerarchia"
+      },
+      {
+        "type": "paragraph",
+        "text": "Qui si trova la parte che raramente entra nelle presentazioni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando si rimuove la gerarchia formale, il potere non scompare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Diventa informale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Decide chi ha accesso diretto al vertice."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi possiede le informazioni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi ha un rapporto personale con l’imprenditore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi riesce a imporre la propria urgenza agli altri."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi parla più forte."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi può aggirare il processo senza pagarne le conseguenze."
+      },
+      {
+        "type": "paragraph",
+        "text": "La struttura piatta promette uguaglianza."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma senza ruoli, responsabilità e autorità chiaramente progettati può produrre una gerarchia ancora più dura, perché invisibile e quindi non governabile."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’organigramma sembra leggero."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’azienda, invece, diventa politicamente pesantissima."
+      },
+      {
+        "type": "heading",
+        "text": "L’AI viene usata come alibi prima ancora di aver prodotto i risultati"
+      },
+      {
+        "type": "paragraph",
+        "text": "L’intelligenza artificiale ha un potenziale enorme."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può eliminare report manuali, attività amministrative, ricerche ripetitive, controlli elementari e una parte considerevole della burocrazia che oggi soffoca manager e tecnici."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma i risultati economici reali sono ancora molto meno uniformi della narrazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "In una ricerca McKinsey sui dirigenti statunitensi, soltanto il 23% ha dichiarato di aver ottenuto una riduzione dei costi grazie alla generative AI."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 31% non ha rilevato alcun cambiamento nei costi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sommando le diverse fasce indicate dalla ricerca, il 43% ha invece registrato un aumento dei costi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eppure alcune aziende stanno già utilizzando l’AI come giustificazione per eliminare competenze che hanno richiesto anni per essere costruite."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prima si taglia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi si scoprono i limiti dello strumento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Infine si riassumono le persone, spesso con un titolo differente e a un costo maggiore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non è un’ipotesi remota."
+      },
+      {
+        "type": "paragraph",
+        "text": "@Gartner prevede che entro il 2027 il 50% delle aziende che hanno ridotto il personale del servizio clienti attribuendo il taglio all’AI tornerà ad assumere persone per svolgere funzioni simili, anche se con denominazioni diverse."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nella stessa ricerca, svolta su 321 responsabili del servizio clienti, soltanto il 20% aveva realmente ridotto gli organici a causa dell’AI."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prima abbiamo esagerato ciò che la tecnologia poteva sostituire."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi abbiamo costruito un annuncio sul risparmio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Domani chiameremo “nuovo modello operativo” il tentativo di ricomprare ciò che abbiamo distrutto."
+      },
+      {
+        "type": "heading",
+        "text": "Fortune racconta il risparmio. Poi arriva il conto."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’articolo di Fortune Italia riporta il caso, non identificato pubblicamente, di una società tecnologica che avrebbe eliminato il 70% dei propri engineering manager, risparmiando 3,2 milioni di dollari."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il vicepresidente dell’ingegneria si sarebbe ritrovato con 47 riporti diretti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sei mesi dopo, il migliore ingegnere senior avrebbe lasciato l’azienda perché nessuno comprendeva realmente su cosa stesse lavorando e perché fosse importante."
+      },
+      {
+        "type": "paragraph",
+        "text": "Fortune racconta anche una società logistica che avrebbe tagliato il 65% dei manager regionali, ottenendo un risparmio di 2,3 milioni di dollari."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando ha avuto bisogno di un vicepresidente operativo, nessuno all’interno era pronto e la ricerca esterna sarebbe fallita due volte."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questi casi non sono nominati e quindi non possono essere verificati indipendentemente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma il meccanismo descritto è perfettamente riconoscibile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il risparmio appare subito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il danno organizzativo matura lentamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando diventa visibile, chi ha presentato il piano di riduzione dei costi spesso ha già incassato il risultato del trimestre."
+      },
+      {
+        "type": "heading",
+        "text": "Il secondo trucco: accusare i giovani di non volere responsabilità"
+      },
+      {
+        "type": "paragraph",
+        "text": "Viene spesso ripetuto che soltanto il 6% della Generazione Z e dei millennial considera una posizione di leadership il principale obiettivo professionale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sembra la prova che i giovani non abbiano ambizione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma la ricerca globale 2026 di @Deloitte ha coinvolto 22.595 persone in 44 Paesi e racconta una realtà differente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 76% della Generazione Z e il 67% dei millennial dichiara di essere interessato a ricoprire ruoli senior nel corso della propria carriera."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non rifiutano la leadership."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rifiutano il prezzo al quale molte aziende la stanno vendendo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 50% della Generazione Z e il 49% dei millennial indicano stress e burnout tra le principali barriere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 50% e il 48% indicano l’eccesso di responsabilità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il 41% e il 46% citano l’impatto sull’equilibrio tra vita e lavoro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non abbiamo giovani privi di ambizione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Abbiamo costruito ruoli nei quali la responsabilità cresce, mentre autorità, supporto e risorse diminuiscono."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi ci stupiamo che una persona intelligente non consideri quella posizione il proprio sogno."
+      },
+      {
+        "type": "heading",
+        "text": "Stiamo tagliando anche la memoria"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nella stessa ricerca Deloitte, soltanto il 54% della Generazione Z e il 60% dei millennial ritiene che il proprio gruppo riuscirebbe a mantenere le prestazioni se un esperto fondamentale lasciasse l’organizzazione il giorno successivo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quasi metà dei giovani lavoratori sta quindi dicendo una cosa estremamente precisa:"
+      },
+      {
+        "type": "paragraph",
+        "text": "La conoscenza non è stata trasferita."
+      },
+      {
+        "type": "paragraph",
+        "text": "I processi non sono realmente autosufficienti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il sistema dipende ancora da persone chiave."
+      },
+      {
+        "type": "paragraph",
+        "text": "E cosa stiamo facendo mentre questa conoscenza rischia di uscire?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Riduciamo i livelli nei quali l’esperienza veniva osservata, discussa, corretta e trasmessa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi creiamo un corso online sulla leadership."
+      },
+      {
+        "type": "paragraph",
+        "text": "La conoscenza industriale non passa attraverso una slide."
+      },
+      {
+        "type": "paragraph",
+        "text": "Passa quando una persona esperta vede una decisione sbagliata, interviene prima del danno e spiega perché quella scelta avrebbe compromesso il sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se elimini quella relazione, non hai digitalizzato la conoscenza."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’hai persa."
+      },
+      {
+        "type": "heading",
+        "text": "Il fractional manager non deve diventare il becchino dell’organizzazione"
+      },
+      {
+        "type": "paragraph",
+        "text": "La fractional leadership può essere estremamente efficace."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può guidare una trasformazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può costruire processi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può affiancare un imprenditore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può preparare una successione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può portare una competenza che l’impresa non possiede ancora."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma deve costruire capacità interna."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non può diventare l’alibi con cui un’impresa smonta la propria struttura permanente e poi acquista leadership a giornate per compensare il vuoto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un fractional manager dovrebbe essere un ponte."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non una protesi applicata a un’organizzazione che ha scelto volontariamente di amputarsi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se entra, risolve e trasferisce competenze, genera valore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se entra continuamente perché nessuno all’interno possiede più mandato, esperienza e capacità di coordinamento, non sta rendendo l’azienda leggera."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sta finanziando una dipendenza."
+      },
+      {
+        "type": "heading",
+        "text": "Non dobbiamo difendere tutti i manager"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alcuni ruoli manageriali sono diventati inutili."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alcuni esistono soltanto per trasmettere informazioni che un sistema potrebbe rendere disponibili istantaneamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alcuni manager producono riunioni invece di decisioni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Altri controllano perché non sanno progettare un processo affidabile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questi ruoli devono essere trasformati o eliminati."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma un manager che coordina competenze diverse, protegge le priorità, sviluppa persone, governa conflitti e assume responsabilità non è burocrazia."
+      },
+      {
+        "type": "paragraph",
+        "text": "È infrastruttura."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il problema non è la piramide."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il problema è una piramide costruita male, nella quale ogni livello rallenta quello inferiore senza aggiungere decisione, competenza o protezione."
+      },
+      {
+        "type": "paragraph",
+        "text": "La soluzione non è farla esplodere."
+      },
+      {
+        "type": "paragraph",
+        "text": "È ridisegnarla."
+      },
+      {
+        "type": "heading",
+        "text": "La domanda che manca nei business plan"
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda non è:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Quanti manager possiamo eliminare grazie all’intelligenza artificiale?”"
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda è:"
+      },
+      {
+        "type": "paragraph",
+        "text": "“Quale lavoro viene svolto oggi da quei manager e chi lo svolgerà domani?”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Con quale tempo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Con quale autorità?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Con quali competenze?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Con quale responsabilità?"
+      },
+      {
+        "type": "paragraph",
+        "text": "E soprattutto:"
+      },
+      {
+        "type": "paragraph",
+        "text": "Cosa accadrà al lavoro principale delle persone sulle quali scaricheremo quelle attività?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché il lavoro manageriale non scompare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può essere automatizzato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può essere migliorato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può essere riprogettato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Oppure può essere semplicemente abbandonato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma quando viene abbandonato, non si ottiene un’azienda piatta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Si ottiene un’azienda nella quale tutti devono occuparsi di tutto, nessuno riesce più a concentrarsi e il vertice scopre i problemi soltanto quando sono diventati troppo grandi per essere nascosti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tra qualche anno molte imprese dichiareranno di aver sottovalutato il fattore umano."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non sarà vero."
+      },
+      {
+        "type": "paragraph",
+        "text": "Avranno sottovalutato l’architettura."
+      },
+      {
+        "type": "paragraph",
+        "text": "Avranno eliminato i manager pensando di eliminare dei costi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Avranno eliminato il coaching."
+      },
+      {
+        "type": "paragraph",
+        "text": "La memoria."
+      },
+      {
+        "type": "paragraph",
+        "text": "La concentrazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "La capacità di coordinare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il luogo nel quale si imparava a decidere."
+      },
+      {
+        "type": "paragraph",
+        "text": "E mentre celebravano un organigramma più leggero, avranno preparato un’organizzazione incapace di reggere il proprio peso."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Non avranno appiattito la piramide.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "**L’avranno fatta crollare sulle persone che producevano valore.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fonti citate: Fortune Italia, Gartner, Korn Ferry, Gallup, McKinsey & Company e Deloitte."
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "c529884c-a600-45b0-a72f-3e53383fce7f",
     "slug": "il-giorno-in-cui-il-ceo-diventa-il-problema-del-progetto",
     "title": "Il giorno in cui il CEO diventa il problema del progetto",
