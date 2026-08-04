@@ -9,9 +9,9 @@ export const articles = [
     "category": "Editorial",
     "seoTitle": "La piramide non è sparita. È crollata addosso alle persone.",
     "seoDescription": "L’AI non sta eliminando il lavoro manageriale. Sta rendendo più facile nasconderne il costo.",
-    "publishedAt": "2026-08-04T12:51:46.498Z",
+    "publishedAt": "2026-08-04T12:55:55.361Z",
     "linkedinUrl": null,
-    "cover": "/MZOS/assets/articles/la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916/cover.jpg",
+    "cover": "/MZOS/assets/articles/la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916/cover.png",
     "blocks": [
       {
         "type": "heading",
