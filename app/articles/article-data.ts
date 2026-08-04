@@ -9,9 +9,9 @@ export const articles = [
     "category": "Editorial",
     "seoTitle": "La piramide non è sparita. È crollata addosso alle persone.",
     "seoDescription": "L’AI non sta eliminando il lavoro manageriale. Sta rendendo più facile nasconderne il costo.",
-    "publishedAt": "2026-08-04T12:46:46.738Z",
+    "publishedAt": "2026-08-04T12:51:46.498Z",
     "linkedinUrl": null,
-    "cover": "/MZOS/assets/articles/la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916/cover.png",
+    "cover": "/MZOS/assets/articles/la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916/cover.jpg",
     "blocks": [
       {
         "type": "heading",
@@ -43,7 +43,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "@Fortune Italia ha pubblicato un articolo dal titolo significativo: “I tagli ai manager intermedi costeranno salato nel 2028”."
+        "text": "Fortune Italia ha pubblicato un articolo dal titolo significativo: “I tagli ai manager intermedi costeranno salato nel 2028”."
       },
       {
         "type": "paragraph",
@@ -71,7 +71,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "Secondo @Gartner, entro la fine del 2026 il 20% delle organizzazioni utilizzerà l’intelligenza artificiale per appiattire la propria struttura, eliminando più della metà delle attuali posizioni di middle management."
+        "text": "Secondo Gartner, entro la fine del 2026 il 20% delle organizzazioni utilizzerà l’intelligenza artificiale per appiattire la propria struttura, eliminando più della metà delle attuali posizioni di middle management."
       },
       {
         "type": "paragraph",
@@ -219,7 +219,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "La Workforce 2025 Survey di @Korn Ferry rileva che il 41% dei lavoratori intervistati opera in organizzazioni che hanno ridotto i livelli manageriali."
+        "text": "La Workforce 2025 Survey di Korn Ferry rileva che il 41% dei lavoratori intervistati opera in organizzazioni che hanno ridotto i livelli manageriali."
       },
       {
         "type": "paragraph",
@@ -267,7 +267,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "Secondo @Gallup, il manager determina circa il 70% della variabilità nell’engagement di un gruppo di lavoro."
+        "text": "Secondo Gallup, il manager determina circa il 70% della variabilità nell’engagement di un gruppo di lavoro."
       },
       {
         "type": "paragraph",
@@ -315,7 +315,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "@McKinsey & Company ha rilevato che i manager intermedi trascorrono quasi tre quarti del proprio tempo in attività non direttamente legate alla gestione e allo sviluppo delle persone."
+        "text": "McKinsey & Company ha rilevato che i manager intermedi trascorrono quasi tre quarti del proprio tempo in attività non direttamente legate alla gestione e allo sviluppo delle persone."
       },
       {
         "type": "paragraph",
@@ -463,7 +463,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "@Gartner prevede che entro il 2027 il 50% delle aziende che hanno ridotto il personale del servizio clienti attribuendo il taglio all’AI tornerà ad assumere persone per svolgere funzioni simili, anche se con denominazioni diverse."
+        "text": "Gartner prevede che entro il 2027 il 50% delle aziende che hanno ridotto il personale del servizio clienti attribuendo il taglio all’AI tornerà ad assumere persone per svolgere funzioni simili, anche se con denominazioni diverse."
       },
       {
         "type": "paragraph",
@@ -539,7 +539,7 @@ export const articles = [
       },
       {
         "type": "paragraph",
-        "text": "Ma la ricerca globale 2026 di @Deloitte ha coinvolto 22.595 persone in 44 Paesi e racconta una realtà differente."
+        "text": "Ma la ricerca globale 2026 di Deloitte ha coinvolto 22.595 persone in 44 Paesi e racconta una realtà differente."
       },
       {
         "type": "paragraph",
