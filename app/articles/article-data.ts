@@ -9,7 +9,7 @@ export const articles = [
     "category": "Editorial",
     "seoTitle": "L’azienda ha un organigramma. Poi c’è lui.",
     "seoDescription": "Contenuto creato manualmente nell'app",
-    "publishedAt": "2026-08-11T20:29:01.874Z",
+    "publishedAt": "2026-08-11T20:31:58.494Z",
     "linkedinUrl": null,
     "cover": "/MZOS/assets/articles/lazienda-ha-un-organigramma-poi-ce-lui-xm0eer/cover.mp4",
     "blocks": [
