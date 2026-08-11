@@ -1,5 +1,118 @@
 export const articles = [
   {
+    "id": "cmsp2ei850005vw7k5guohzg9",
+    "slug": "lazienda-ha-un-organigramma-poi-ce-lui-xm0eer",
+    "title": "L’azienda ha un organigramma. Poi c’è lui.",
+    "subtitle": "Contenuto creato manualmente nell'app",
+    "abstract": "Contenuto creato manualmente nell'app",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "L’azienda ha un organigramma. Poi c’è lui.",
+    "seoDescription": "Contenuto creato manualmente nell'app",
+    "publishedAt": "2026-08-11T20:29:01.874Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/lazienda-ha-un-organigramma-poi-ce-lui-xm0eer/cover.mp4",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "In quasi tutte le aziende esiste una persona che sull’organigramma occupa una casella normalissima. Il problema è che nessuno gli ha mai spiegato che dovrebbe restarci dentro. È lì da moltissimo tempo, ha visto cambiare tre gestionali, cinque responsabili, dodici procedure e almeno un logo aziendale che “doveva rappresentare il futuro”. Lui è sopravvissuto a tutto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chiamiamolo il Custode. Non perché abbia le chiavi dell’azienda, anche se probabilmente le ha. Il Custode conosce ogni macchina, ogni cliente, ogni vecchia commessa, ogni errore commesso dal 1997 e soprattutto conosce la risposta alla domanda più importante di qualsiasi organizzazione: “Perché facciamo così?”. La risposta, normalmente, è: “Perché abbiamo sempre fatto così”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Naturalmente il Custode ama il cambiamento. Quando arriva un nuovo progetto è entusiasta: “Era ora”, “Finalmente”, “Questa cosa ci serviva”. Poi passa i sei mesi successivi a impedire che venga fatta. Con eleganza, perché il Custode non dice mai veramente no. Il no è troppo evidente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lui utilizza forme organizzative più sofisticate. “Facciamolo, ma prima dobbiamo sistemare questa cosa”. “Il concetto è giusto, però qui siamo particolari”. “Sul gestionale va bene, ma per questo cliente meglio continuare come prima”. “Partiamo appena passa questo periodo”. Il periodo, naturalmente, non passa mai."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché l’azienda vive permanentemente in emergenza. Ogni mattina accade qualcosa di eccezionale: un cliente urgentissimo, un ordine particolare, una distinta diversa, una consegna impossibile, un problema che nessuno poteva prevedere. Dopo qualche anno viene spontaneo chiedersi se l’emergenza sia ancora un evento oppure sia diventata il modello organizzativo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma il Custode è fondamentale proprio nelle emergenze, perché lui sa come risolverle. Ed è qui che comincia il capolavoro. L’organizzazione genera continuamente situazioni che richiedono conoscenze non documentate, lui possiede quelle conoscenze e quindi l’organizzazione ha continuamente bisogno di lui. È un sistema quasi perfetto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Custode, naturalmente, è sempre occupatissimo. Se gli chiedete cinque minuti, probabilmente vi spiegherà per venti minuti perché non ha cinque minuti. Ha talmente tante cose da fare che nessuno riesce più a capire quali siano davvero le sue responsabilità, ma tutti sanno che senza di lui qualcosa potrebbe fermarsi. E quindi nessuno osa togliergli qualcosa dalle mani."
+      },
+      {
+        "type": "paragraph",
+        "text": "Così accumula ancora più attività, diventa ancora più indispensabile e il meccanismo si autoalimenta. A quel punto anche le procedure aziendali si dividono in due categorie molto semplici: quelle che bisogna rispettare e quelle che il Custode ritiene inutili. Quando una procedura viene aggirata da qualcun altro è un problema organizzativo. Quando viene aggirata da lui è esperienza."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando qualcuno tiene informazioni fuori dal sistema è mancata disciplina. Quando lo fa lui è perché “certe cose bisogna conoscerle”. Quando qualcuno non compila un dato rallenta l’azienda. Quando non lo compila lui, il problema è che il sistema è troppo burocratico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non è necessariamente arroganza. Spesso è qualcosa di molto più interessante: è potere sedimentato. Anni di competenza, fiducia, relazioni, abitudini e scorciatoie che lentamente hanno creato una struttura parallela. Ed è qui che scopriamo che ogni azienda possiede almeno due organigrammi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il primo è quello ufficiale. Direttore generale, Operations, Produzione, Qualità, Engineering, Amministrazione. Belle caselle, belle linee, tutto molto rassicurante. Poi esiste il secondo organigramma. Non è mai stato approvato da nessuno, non è appeso da nessuna parte, ma tutti lo conoscono."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dice chi bisogna chiamare veramente, chi può fermare una decisione, chi può trasformare una regola in un suggerimento, chi possiede informazioni che nessun sistema possiede e chi può risolvere un problema senza spiegare come. I consulenti normalmente impiegano qualche settimana a comprenderlo. I nuovi manager qualche mese. Chi lavora in reparto circa quarantotto ore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il paradosso è che il Custode spesso è davvero bravo. Ed è proprio questo il problema. Se fosse incompetente sarebbe semplice, ma normalmente conosce profondamente l’azienda, ha esperienza, risolve problemi, ricorda cose che nessun database contiene, sa chi chiamare e sa dove sono stati fatti compromessi anni prima."
+      },
+      {
+        "type": "paragraph",
+        "text": "È quindi una risorsa enorme, fino al momento in cui la sua conoscenza smette di essere una risorsa dell’azienda e diventa una condizione necessaria perché l’azienda funzioni. Da quel momento non avete più soltanto una persona competente. Avete una dipendenza organizzativa."
+      },
+      {
+        "type": "paragraph",
+        "text": "E una dipendenza organizzativa produce una conseguenza molto precisa: rende difficilissimo cambiare. Qualsiasi nuovo processo sembra perdere qualcosa rispetto al vecchio, qualsiasi sistema sembra non comprendere tutte le eccezioni, qualsiasi standard sembra troppo rigido, qualsiasi delega sembra pericolosa. Così un’organizzazione può passare anni dichiarando di voler diventare più strutturata mentre continua a proteggere tutto ciò che le impedisce di diventarlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "A questo punto esiste una domanda abbastanza semplice. Se una persona passa metà della giornata a risolvere problemi che soltanto lei riesce a risolvere, forse dovremmo smettere di applaudire per qualche minuto e chiederci perché soltanto lei riesca a risolverli. Perché un’azienda scalabile non è quella piena di eroi. È quella che ha sempre meno bisogno di loro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed eccoci alla parte meno divertente. Una figura del genere può nascere come una soluzione, poi diventare una scorciatoia, poi una dipendenza, infine entrare così profondamente nel funzionamento dell’azienda che nessuno distingue più la persona dal processo. A quel punto il problema non è nemmeno più il Custode."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il problema è l’organizzazione che ha imparato a funzionare male pur di continuare a funzionare attraverso di lui. Può sopportarlo per anni, può perfino convincersi che sia normale. Ma finché protegge quella dipendenza, non diventa davvero scalabile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per capire se succede anche nella vostra azienda esiste un esperimento semplicissimo. Prendete l’organigramma ufficiale, guardatelo bene e poi chiedete separatamente a cinque persone: “Se domani volessi cambiare davvero qualcosa qui dentro, chi dovrei convincere?”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se compare sempre lo stesso nome e quel nome non è nella casella che vi aspettavate, non avete trovato un collega particolarmente influente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Avete trovato l’organigramma vero."
+      },
+      {
+        "type": "paragraph",
+        "text": "E quello, purtroppo, Excel non lo disegna."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bibliografia essenziale"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dewey, J. (1933). How We Think. D.C. Heath and Company. Drucker, P. F. (1954). The Practice of Management. Harper & Row. Leonard-Barton, D. (1992). Core capabilities and core rigidities. Strategic Management Journal, 13(S1), 111–125. Nonaka, I., & Takeuchi, H. (1995). The Knowledge-Creating Company. Oxford University Press. Rousseau, D. M. (1997). Organizational behavior in the new era. Journal of Organizational Behavior, 18(1), 1–8. Argyris, C. (1990). Overcoming Organizational Defenses. Allyn & Bacon. Senge, P. M. (1990). The Fifth Discipline. Doubleday. Liker, J. K., & Meier, D. (2006). The Toyota Way Fieldbook. McGraw-Hill. Gartner. (2021). Digital Transformation: Why 70% of Initiatives Fail. Gartner Research. McKinsey & Company. (2019). The Value of Knowledge Management. McKinsey Insights."
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmsem44yv0005uk7kdvamp2i4",
     "slug": "la-piramide-non-e-sparita-e-crollata-addosso-alle-persone-90d916",
     "title": "La piramide non è sparita. È crollata addosso alle persone.",
