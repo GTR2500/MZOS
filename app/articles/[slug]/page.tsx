@@ -63,7 +63,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
         {article.cover ? (
           <figure className={styles.heroCover}>
-            <img src={article.cover} alt={`Copertina di ${article.title}`} />
+            {article.cover.toLowerCase().endsWith(".mp4") ? (
+              <video
+                src={article.cover}
+                aria-label={`Copertina di ${article.title}`}
+                autoPlay
+                muted
+                loop
+                playsInline
+                preload="metadata"
+              />
+            ) : (
+              <img src={article.cover} alt={`Copertina di ${article.title}`} />
+            )}
           </figure>
         ) : null}
 

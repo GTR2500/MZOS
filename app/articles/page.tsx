@@ -51,7 +51,19 @@ export default function ArticlesPage() {
               <article className={styles.card} key={article.id}>
                 {article.cover ? (
                   <Link className={styles.cover} href={`/articles/${article.slug}/`}>
-                    <img src={article.cover} alt={`Copertina di ${article.title}`} />
+                    {article.cover.toLowerCase().endsWith(".mp4") ? (
+                      <video
+                        src={article.cover}
+                        aria-label={`Copertina di ${article.title}`}
+                        autoPlay
+                        muted
+                        loop
+                        playsInline
+                        preload="metadata"
+                      />
+                    ) : (
+                      <img src={article.cover} alt={`Copertina di ${article.title}`} />
+                    )}
                   </Link>
                 ) : null}
                 <div className={styles.copy}>
