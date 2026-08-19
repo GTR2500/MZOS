@@ -1,5 +1,182 @@
 export const articles = [
   {
+    "id": "cmszqsbez00hv287ktppv6h7q",
+    "slug": "il-principio-di-peter-non-basta-yuao5e",
+    "title": "Il Principio di Peter non basta",
+    "subtitle": "Tema da definire",
+    "abstract": "Tema da definire",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Il Principio di Peter non basta",
+    "seoDescription": "Tema da definire",
+    "publishedAt": "2026-08-19T07:00:27.063Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/il-principio-di-peter-non-basta-yuao5e/cover.png",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Il Principio di Peter non basta"
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo formularono nel 1969 con una provocazione tanto semplice quanto pericolosa: in una gerarchia, una persona competente tende a essere promossa fino a raggiungere il livello nel quale non è più competente. Detto meno elegantemente: se sei bravo, prima o poi qualcuno potrebbe decidere di premiarti impedendoti di fare il lavoro in cui eri bravo. Ed è probabilmente per questo che il Principio di Peter fa sorridere. Perché tutti conosciamo Peter. Peter era un ottimo tecnico. Risolveva problemi che gli altri nemmeno capivano. Quindi l'azienda ha fatto la cosa più logica: gli ha tolto i problemi tecnici e gli ha dato dodici persone. Adesso non risolve più problemi tecnici e le dodici persone hanno un problema in più."
+      },
+      {
+        "type": "paragraph",
+        "text": "Oppure Peter era il miglior commerciale. Vendeva anche le sedie in una riunione su Teams. Inevitabile promuoverlo a direttore commerciale. Ora passa le giornate a spiegare agli altri come vendere, entra in tutte le trattative importanti, corregge ogni offerta e si domanda perché la sua squadra non sia autonoma. La risposta, naturalmente, è in riunione con loro. Il Principio di Peter è irresistibile perché ha quella qualità rara delle idee riuscite: appena lo conosci, cominci a vederlo dappertutto. Soprattutto negli altri."
+      },
+      {
+        "type": "heading",
+        "text": "Il problema è che Peter esiste davvero"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dietro la battuta c'è un meccanismo molto serio. Essere eccellenti nel lavoro che stai facendo non significa avere le competenze necessarie per quello successivo. Anzi, spesso la promozione funziona così: dimostri di essere molto bravo nel mestiere A e, come riconoscimento, ti assegnano il mestiere B. Sulla carta sei salito di un livello. Nella realtà hai cambiato mestiere senza che nessuno avesse il cattivo gusto di dirtelo. Il miglior progettista diventa responsabile dell'ufficio tecnico. Il miglior venditore diventa direttore commerciale. Il miglior uomo di produzione diventa direttore di stabilimento. Poi scopriamo con una certa sorpresa che progettare, vendere, produrre e guidare persone non sono sinonimi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi avrebbe potuto immaginarlo. Eppure i dati dicono che il meccanismo esiste davvero: le prestazioni nel ruolo precedente pesano nelle promozioni anche quando non predicono necessariamente la capacità di svolgere bene quello successivo. Quindi Peter aveva ragione. Solo che aveva ragione abbastanza da diventare pericoloso."
+      },
+      {
+        "type": "heading",
+        "text": "Perché poi incontri quelli bravi"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ho incontrato dei Peter. Alcuni erano quasi da manuale. Persone probabilmente eccellenti cinque anni e due promozioni prima, diventate nel frattempo responsabili di qualcosa che non sapevano più governare. E intorno a loro l'organizzazione sviluppava anticorpi meravigliosi. Riunioni prima della riunione per decidere cosa dire nella riunione. Riunioni dopo la riunione per capire cosa fosse stato deciso nella riunione. Decisioni prese senza il capo e poi delicatamente accompagnate verso il capo, affinché potesse avere la soddisfazione di prenderle. La natura trova sempre una strada."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma ho incontrato anche il contrario. Persone arrivate molto in alto che erano ancora tremendamente brave. Non brave nel mestiere che facevano vent'anni prima. Brave in quello che facevano adesso. Entravano in una stanza e capivi abbastanza rapidamente perché fossero sedute lì. Ascoltavano domande alle quali avrebbero potuto rispondere subito e, cosa inquietante per un dirigente, qualche volta aspettavano. Avevano cambiato idea più volte senza considerarlo un attentato alla propria autorità. E soprattutto avevano intorno persone più brave di loro in qualcosa senza manifestare sintomi evidenti di orticaria. Qui Peter comincia ad avere un problema. Se tutti continuiamo a salire fino al nostro livello di incompetenza, quelli arrivati in cima e ancora competenti cosa hanno sbagliato?"
+      },
+      {
+        "type": "heading",
+        "text": "Forse hanno fame"
+      },
+      {
+        "type": "paragraph",
+        "text": "Negli affari si usa un'espressione che mi è sempre piaciuta: **quello ha fame**. Purtroppo l'abbiamo rovinata. Abbiamo trasformato la fame in soldi, carriera, potere, bonus, macchina aziendale e possibilmente un titolo inglese abbastanza lungo da richiedere due righe sul biglietto da visita. Non è quella la fame. La fame è voler vedere un po' più lontano. È arrivare in un posto che ieri sembrava il traguardo e scoprire che da lì si vede un altro pezzo di strada."
+      },
+      {
+        "type": "paragraph",
+        "text": "È soprattutto accettare una cosa professionalmente molto sgradevole: per continuare a crescere, ogni tanto devi tornare a essere quello che non sa. E più sali, più costa. A venticinque anni dire «non lo so» è apprendimento. A cinquanta, con un ruolo importante e venti persone che ti guardano, improvvisamente sembra una crisi reputazionale. Così alcuni smettono. Continuano a utilizzare gli strumenti che li hanno portati fin lì. Difendono quello che sanno. Intervengono dove erano forti. Confondono l'esperienza con l'aggiornamento perpetuo della licenza."
+      },
+      {
+        "type": "paragraph",
+        "text": "E senza accorgersene trasformano la competenza di ieri nell'incompetenza di oggi. Altri fanno il contrario. Arrivano nello stesso ruolo, incontrano lo stesso limite e pensano: bene, allora devo imparare un altro mestiere. Due persone ricevono la stessa promozione. Una pensa di essere arrivata. L'altra capisce di essere tornata principiante. Formalmente hanno fatto lo stesso passo. Professionalmente stanno andando in direzioni opposte."
+      },
+      {
+        "type": "heading",
+        "text": "Poi ci sono le PMI italiane"
+      },
+      {
+        "type": "paragraph",
+        "text": "Fin qui tutto abbastanza ordinato. Troppo ordinato. Perché il Principio di Peter nasce pensando a una gerarchia. Livelli, ruoli, promozioni, responsabilità. Una scala sulla quale puoi osservare qualcuno salire fino al gradino sbagliato. Poi entri in una PMI italiana. La scala non c'è."
+      },
+      {
+        "type": "paragraph",
+        "text": "O meglio: probabilmente c'è, ma è dietro al muletto, nessuno sa chi l'abbia messa lì e comunque Giuseppe la usa dal 1998 e guai a spostarla. Nella PMI spesso le responsabilità non vengono assegnate. **Succedono.** Uno diventa responsabile perché è il più bravo. Un altro perché è lì da venticinque anni. Un altro perché il titolare si fida solo di lui. Un altro perché conosce tutti i clienti. Un altro perché quando c'è un problema alle sei del mattino risponde al telefono."
+      },
+      {
+        "type": "paragraph",
+        "text": "E qualche volta uno perché porta il cognome giusto. Non è necessariamente incompetenza. È che il criterio organizzativo può diventare difficile da ricostruire perfino per l'organizzazione. Nell'azienda strutturata Peter sale attraverso le promozioni. Nella PMI può crescerti intorno."
+      },
+      {
+        "type": "heading",
+        "text": "Il capo che nessuno ha mai promosso"
+      },
+      {
+        "type": "paragraph",
+        "text": "Prendiamo il fondatore. Parte con cinque persone. Conosce ogni cliente, ogni ordine, ogni macchina e probabilmente sa anche quale compressore fa quel rumorino strano quando fuori piove. Decide tutto. Ed è velocissimo. L'azienda cresce. Diventano trenta. Poi ottanta. Poi duecento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lui continua a decidere tutto. Solo che adesso essere informato su tutto non è più una capacità manageriale. È un sistema informativo particolarmente costoso con una sola password. Il paradosso è che nessuno lo ha mai promosso. Non ha cambiato titolo. Non ha ricevuto una nuova job description. Non è salito nella gerarchia. **È la gerarchia che è cresciuta sotto di lui.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "E improvvisamente il mestiere che sapeva fare benissimo non esiste più. L'azienda che doveva costruire è diventata l'azienda che deve organizzare. Le decisioni che prima poteva prendere personalmente adesso devono poter essere prese senza di lui. Le persone che prima doveva scegliere adesso devono saper scegliere altre persone. Stesso ufficio. Stessa persona. Stesso titolo. Altro mestiere. Peter, da qualche parte, sorride."
+      },
+      {
+        "type": "heading",
+        "text": "Il casino governa meglio di quanto ammettiamo"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è qui che il Principio comincia a diventare davvero interessante. Perché nelle organizzazioni reali la competenza non è mai l'unica forza che decide chi comanda. Ci sono fiducia, anzianità, risultati, relazioni, proprietà, politica, conoscenza del cliente, memoria storica, disponibilità, appartenenza. E poi c'è quella categoria scientificamente poco studiata ma molto diffusa: «Lascia fare a lui perché sa come funzionano le cose qui dentro.»"
+      },
+      {
+        "type": "paragraph",
+        "text": "Che può significare due cose. Che hai davanti una persona di enorme valore. Oppure che nessuno osa più chiedersi perché facciamo le cose in quel modo. Il casino non è l'assenza di un sistema. Spesso **è il sistema che ha vinto**. Funziona abbastanza da non essere cambiato, male abbastanza da lamentarsene ogni giorno e da così tanto tempo che ormai lo chiamiamo cultura aziendale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è per questo che usare Peter per spiegare ogni cattivo capo diventa una scorciatoia. Qualche volta il capo è stato promosso oltre le proprie competenze. Qualche volta è stato scelto per un'altra ragione. Qualche volta l'organizzazione è cambiata e lui no. Qualche volta, semplicemente, il sistema premia qualcosa di diverso dalla competenza che noi vorremmo vedere. E qualche volta quello che chiamiamo incompetente è soltanto qualcuno che sta facendo un mestiere che nessuno gli ha mai insegnato. Qui viene un po' meno da ridere."
+      },
+      {
+        "type": "heading",
+        "text": "Perché a questo punto Peter siamo noi"
+      },
+      {
+        "type": "paragraph",
+        "text": "È facile leggere il Principio di Peter pensando al proprio capo. Anzi, è terapeutico. Finalmente una teoria scientifica che conferma quello che sospettavi dal secondo giorno. Il problema arriva quando smetti di guardare verso l'alto. Perché il principio non dice che **gli altri** raggiungono il proprio livello di incompetenza. Dice che può succedere alle persone competenti. Quindi anche a te. Anzi, soprattutto a te, se sei bravo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Potresti essere promosso. Potresti diventare responsabile. Potresti costruire un'azienda che cresce. Potresti diventare quello a cui tutti chiedono una decisione. E un giorno potresti continuare a fare esattamente ciò che ti ha reso bravo, senza accorgerti che il lavoro nel frattempo è cambiato. Forse è qui che la fame fa davvero la differenza. Non ti impedisce di diventare incompetente. Quello succede."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ogni volta che proviamo seriamente ad andare oltre ciò che sappiamo fare, per un tratto siamo incompetenti. La fame fa un'altra cosa. **Ti impedisce di arredare quel posto e chiamarlo ufficio.** Finché hai fame, il limite è temporaneo. Cerchi. Chiedi. Studi. Osservi chi ne sa più di te."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lasci andare qualcosa che ti aveva reso forte. Accetti persino l'affronto supremo per una persona esperta: cambiare idea. Poi, magari, un giorno smetti. Non perché sei diventato stupido. Non perché non meriti quello che hai costruito. Forse semplicemente perché sei stanco. Perché hai già dimostrato abbastanza. Perché il titolo protegge. Perché intorno a te hanno smesso di contraddirti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché ciò che sai fare continua a funzionare abbastanza da non obbligarti a imparare ciò che non sai più fare. Ed è probabilmente questa la parte più amara del Principio di Peter. Il nostro livello di incompetenza potrebbe non essere il posto nel quale arriviamo quando non siamo più capaci. Potrebbe essere il posto nel quale, per la prima volta, decidiamo che non vale più la pena diventarlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Tu ricordi quando hai avuto fame l'ultima volta?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "---"
+      },
+      {
+        "type": "heading",
+        "text": "Fonti"
+      },
+      {
+        "type": "paragraph",
+        "text": "Laurence J. Peter, Raymond Hull, *The Peter Principle: Why Things Always Go Wrong*, 1969."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alan Benson, Danielle Li, Kelly Shue, “Promotions and the Peter Principle”, *The Quarterly Journal of Economics*, 2019."
+      },
+      {
+        "type": "paragraph",
+        "text": "Edward P. Lazear, “The Peter Principle: A Theory of Decline”, *Journal of Political Economy*, 2004."
+      },
+      {
+        "type": "paragraph",
+        "text": "James A. Fairburn, James M. Malcomson, “Performance, Promotion, and the Peter Principle”, *The Review of Economic Studies*, 2001."
+      },
+      {
+        "type": "paragraph",
+        "text": "Banca d'Italia — studi e analisi su governance, assetti proprietari, management e performance delle imprese italiane."
+      },
+      {
+        "type": "paragraph",
+        "text": "OECD — analisi su competenze manageriali, produttività e struttura delle PMI."
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmsp2ei850005vw7k5guohzg9",
     "slug": "lazienda-ha-un-organigramma-poi-ce-lui-xm0eer",
     "title": "L’azienda ha un organigramma. Poi c’è lui.",
