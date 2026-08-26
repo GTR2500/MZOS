@@ -1,5 +1,250 @@
 export const articles = [
   {
+    "id": "cmtagx0qx00096c7kdfmkbxyp",
+    "slug": "oggi-sonoff-e-entrata-a-casa-mia-e26ad8",
+    "title": "Oggi SONOFF è entrata a casa mia.",
+    "subtitle": "Contenuto creato manualmente nell’app",
+    "abstract": "Contenuto creato manualmente nell’app",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Oggi SONOFF è entrata a casa mia.",
+    "seoDescription": "Contenuto creato manualmente nell’app",
+    "publishedAt": "2026-08-26T19:09:38.998Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/oggi-sonoff-e-entrata-a-casa-mia-e26ad8/cover.png",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Questo è un post diverso dal solito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il laboratorio elimina le variabili. La casa le contiene tutte."
+      },
+      {
+        "type": "paragraph",
+        "text": "SONOFF è entrata davvero a casa mia. Non attraverso un’app, un aggiornamento firmware o una survey. Sono arrivati fisicamente Joe, Product Manager di SONOFF, il fondatore dell’azienda e un loro collega. Per alcune ore abbiamo aperto quadri elettrici, guardato reti, discusso di Zigbee, Wi Fi, energia, riscaldamento, dimmer, gateway, automazioni e problemi che normalmente restano nascosti dietro una frase molto semplice: “a casa mia funziona”."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è proprio questo il punto. Un prodotto può funzionare perfettamente in laboratorio e comportarsi in modo completamente diverso quando entra nella vita reale. Il laboratorio elimina le variabili. La casa le contiene tutte."
+      },
+      {
+        "type": "paragraph",
+        "text": "In casa mia ci sono circa sessanta dispositivi SONOFF. Quasi tutti nascosti. È una scelta precisa: amo la tecnologia, ma non voglio vivere dentro una dimostrazione tecnologica. Voglio vivere dentro una casa. La tecnologia deve stare dietro una parete, dentro un quadro elettrico, sotto un mobile, in una scatola di derivazione. Deve fare il proprio lavoro e poi sparire."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per me un sistema è davvero intelligente quando smetto di accorgermi che esiste."
+      },
+      {
+        "type": "paragraph",
+        "text": "Da qui è cominciata una conversazione che, molto rapidamente, ha smesso di sembrare un’intervista. Abbiamo parlato di eWeLink, iHost, Alexa, Home Assistant, Thread e Zigbee. Ma soprattutto abbiamo parlato di ciò che succede quando i dispositivi diventano tanti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Con cinque dispositivi il problema è accendere una lampadina. Con cinquanta il problema è l’architettura."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rumore radio, riconnessioni, gateway, topologia, resilienza, ripartenza dopo un blackout. Per questo sto progressivamente spostando molti dispositivi dal Wi Fi a Zigbee. Non perché il Wi Fi sia sbagliato, ma perché una soluzione che funziona bene in piccolo non è automaticamente una buona soluzione quando il sistema cresce."
+      },
+      {
+        "type": "paragraph",
+        "text": "È una regola che vale molto oltre la domotica."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un millimetro sulla scrivania può diventare un problema dentro una fabbrica. O dentro un quadro elettrico."
+      },
+      {
+        "type": "paragraph",
+        "text": "A un certo punto abbiamo aperto il quadro. Lì il discorso è diventato estremamente concreto. Un progettista può vedere un modulo da 1P. Un installatore vede lo spazio che non ha."
+      },
+      {
+        "type": "paragraph",
+        "text": "Abbiamo parlato di fase e neutro, protezioni, meter, dimensioni, toroidi, cablaggi e della realtà dei quadri elettrici italiani, che spesso sono già pieni prima ancora di aggiungere qualcosa di smart."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pochi millimetri possono decidere se un prodotto viene installato oppure no. Questa è una delle cose che una scheda tecnica racconta male. Un prodotto non compete soltanto per prestazioni, prezzo e funzioni. Compete per spazio fisico, tempo di installazione, complessità di cablaggio e compatibilità con ciò che esiste già."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mi hanno mostrato alcune direzioni sulle quali stanno lavorando. Non entrerò nei dettagli, ovviamente. Posso però dire che alcune rispondono esattamente a problemi che oggi vedo nel mio quadro e che, quando saranno disponibili, le valuterò seriamente per aggiornarlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché l’innovazione, per me, comincia quando elimina un problema concreto. Non quando aggiunge una funzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi abbiamo aperto qualcosa che SONOFF non aveva costruito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sul computer ho mostrato il mio sistema per la gestione energetica della casa. L’ho costruito perché volevo rispondere a una domanda banale: dove va l’energia?"
+      },
+      {
+        "type": "paragraph",
+        "text": "In Italia una casa può avere 3 kW disponibili. Io ne ho 6, un’auto plug in, climatizzazione, elettrodomestici, acquari e diversi carichi da monitorare. A quel punto sapere quanto consumi non basta più. Devi capire cosa sta consumando, dove, quando e perché."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ho quindi messo in relazione i vari meter, creato una gerarchia tra ingresso generale, linee e carichi, aggiunto temperatura esterna, climatizzazione, gas, contratti, costo del kWh, bollette, storico e pattern di consumo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando hanno visto il sinottico delle linee si sono fermati. Lo hanno fotografato. Ed è iniziata una discussione che per me rappresenta bene la differenza tra fare software e fare prodotto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nel mio sistema ogni elemento conosce semplicemente il proprio “padre”. Da quella relazione nasce la struttura. Per me è semplice. Ma io posso costruirmelo. L’utente normale no."
+      },
+      {
+        "type": "paragraph",
+        "text": "E quindi il problema vero non è rappresentare la gerarchia. È permettere a qualcuno che non sa nemmeno che quella gerarchia esiste di configurarla correttamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questa è UX. Non scegliere se il pulsante debba essere blu o verde. Prendere una struttura complessa e fare in modo che l’utente non debba conoscerla."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un bug di trenta secondi può distruggere la fiducia costruita in anni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Durante la conversazione ho raccontato un problema che talvolta incontro dopo un blackout. I dispositivi ripartono, ma alcune scene possono non tornare operative correttamente finché non riavvio gateway e sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per me è un problema piccolo. So cosa fare. Riavvio tutto e trenta secondi dopo ho risolto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi ho spiegato cosa succede quando capita alla mia compagna. Lei non vede gateway, protocolli, handshake o riconnessioni. Vede soltanto che qualcosa che ieri funzionava oggi non funziona. E dice: “Non funziona niente in questa casa.”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Questa frase vale più di molte analisi UX. Perché l’utente non giudica la gravità tecnica di un problema. Giudica la propria capacità di risolverlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un errore banale per un tecnico può essere un prodotto inaffidabile per chi tecnico non è."
+      },
+      {
+        "type": "paragraph",
+        "text": "La cosa che ho apprezzato della loro risposta è stata proprio questa. Non hanno minimizzato. Mi hanno detto che quel comportamento non dovrebbe verificarsi, che alla prossima occasione vogliono i log e che il problema va analizzato."
+      },
+      {
+        "type": "paragraph",
+        "text": "È la risposta corretta. Perché dire all’utente “basta riavviare” non significa aver risolto il problema. Significa aver trasferito il problema all’utente."
+      },
+      {
+        "type": "paragraph",
+        "text": "La casa intelligente non dovrebbe richiedere persone intelligenti per funzionare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Io controllo quasi tutto con Alexa. Non perché sia la soluzione tecnicamente più sofisticata. Perché è quella che mi costa meno attenzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dopo una giornata davanti a un computer non voglio prendere il telefono, aprire un’app, cercare un dispositivo e spostare uno slider. Voglio dire “abbassa le luci” e continuare a fare quello che stavo facendo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questa per me è automazione. Tutto il resto è infrastruttura. Bellissima, complessa, tecnicamente affascinante. Ma infrastruttura."
+      },
+      {
+        "type": "paragraph",
+        "text": "E un’infrastruttura ben progettata dovrebbe diventare invisibile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Abbiamo parlato anche di ciò che oggi non funziona bene. Dimmer che richiedono troppi passaggi di integrazione. Prodotti che ho comprato da altri marchi perché SONOFF all’epoca non aveva ancora un’alternativa. Illuminazione a 12 e 24 V, COB, controllo della caldaia, TRV, energia, sistemi Ajax e telecamere Reolink."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non credo che un buon beta tester debba dire a un’azienda che i suoi prodotti sono belli. Credo debba dirle dove non li ha comprati. E perché."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dentro quel “perché” potrebbe esserci una parte della roadmap futura."
+      },
+      {
+        "type": "paragraph",
+        "text": "È probabilmente questo che mi ha colpito di più."
+      },
+      {
+        "type": "paragraph",
+        "text": "SONOFF sta andando fisicamente nelle case degli utenti. Non soltanto per chiedere cosa piace. Per vedere cosa manca."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una casa reale è un ambiente pessimo per un prodotto. Ogni rete è diversa. Ogni impianto è diverso. Ogni famiglia è diversa. Ogni utente ha abitudini diverse. E soprattutto ogni persona utilizzerà prima o poi il prodotto in un modo che il progettista non aveva previsto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il laboratorio serve a capire se il prodotto funziona. La casa serve a capire se funziona davvero."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sono due domande molto diverse."
+      },
+      {
+        "type": "paragraph",
+        "text": "Oggi ero formalmente l’utente intervistato. Ma per alcune ore non mi sono sentito dall’altra parte del tavolo. Eravamo intorno allo stesso problema, guardandolo da prospettive diverse e chiedendoci continuamente: “Come si potrebbe fare meglio?”"
+      },
+      {
+        "type": "paragraph",
+        "text": "È questo che porterò con me dell’incontro. Non le anteprime. Non il quadro aperto. Non la dashboard fotografata. Il metodo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Osservare prima di progettare. Ascoltare prima di concludere. Capire il contesto prima di aggiungere tecnologia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sono beta tester SONOFF già da tempo. Dopo oggi credo che cambierà soprattutto una cosa nel mio modo di farlo. Segnalerò anche i problemi che so risolvere da solo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché proprio il difetto che io considero irrilevante potrebbe essere quello che porta un altro utente a dire: “Questo prodotto non funziona.”"
+      },
+      {
+        "type": "paragraph",
+        "text": "Alla fine abbiamo fatto una foto davanti a casa. Quattro persone con il pollice alzato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dietro quella fotografia ci sono quasi otto anni in cui i prodotti SONOFF sono entrati progressivamente nella mia casa e alcune ore trascorse con le persone che quei prodotti li pensano, li sviluppano e oggi hanno deciso di venire a vedere cosa succede dopo che escono dalla fabbrica."
+      },
+      {
+        "type": "paragraph",
+        "text": "È lì che, secondo me, comincia la parte più difficile dello sviluppo prodotto. Quando il prodotto smette di appartenere a chi lo ha progettato. Ed entra nella vita di qualcuno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Grazie Joe, al fondatore di SONOFF e al vostro collega per il tempo, le domande e soprattutto per la disponibilità ad ascoltare anche ciò che non funzionava."
+      },
+      {
+        "type": "paragraph",
+        "text": "Spero di esservi stato utile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Io oggi porto a casa una conferma: un prodotto non si capisce davvero finché non entra nella vita reale di qualcuno."
+      },
+      {
+        "type": "paragraph",
+        "text": "#SONOFF #ProductDevelopment #UserExperience #SmartHome #IoT #IndustrialDesign #EnergyManagement #Zigbee #Innovation #BetaTesting"
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmszqsbez00hv287ktppv6h7q",
     "slug": "il-principio-di-peter-non-basta-yuao5e",
     "title": "Il Principio di Peter non basta",
