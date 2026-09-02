@@ -1,5 +1,514 @@
 export const articles = [
   {
+    "id": "cmtkdd0z300oub87kmkd2nnvk",
+    "slug": "quando-un-pezzo-cambia-ma-il-suo-codice-no-iye1u3",
+    "title": "Quando un pezzo cambia, ma il suo codice no",
+    "subtitle": "Un componente viene tornito, fresato, temprato, zincato, verniciato, rettificato.",
+    "abstract": "Un componente viene tornito, fresato, temprato, zincato, verniciato, rettificato.",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Quando un pezzo cambia, ma il suo codice no",
+    "seoDescription": "Un componente viene tornito, fresato, temprato, zincato, verniciato, rettificato.",
+    "publishedAt": "2026-09-02T17:28:53.226Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/quando-un-pezzo-cambia-ma-il-suo-codice-no-iye1u3/cover.png",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "In produzione succede continuamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un componente viene tornito, fresato, temprato, zincato, verniciato, rettificato. Fisicamente cambia. A volte cambia molto."
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda è: deve cambiare anche il codice articolo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Non necessariamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando quella trasformazione è semplicemente una delle operazioni previste per ottenere il prodotto definito, cambiare codice può significare confondere due concetti completamente differenti: l’identità del prodotto e lo stato del processo produttivo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinzione sembra teorica. In realtà determina come vengono costruiti anagrafiche, cicli, distinte, WIP, magazzino, inventario e valorizzazione contabile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è qui che Toyota, i principi contabili e il Codice civile finiscono per convergere su una struttura molto più coerente di quanto possa sembrare."
+      },
+      {
+        "type": "paragraph",
+        "text": "IL CODICE DICE CHE COSA È. IL CICLO DICE CHE COSA GLI DEVE ACCADERE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Immaginiamo un albero meccanico identificato come P12345."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il disegno prevede 42CrMo4, lavorazioni meccaniche, tempra e rinvenimento, rettifica e controllo finale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prima del trattamento termico abbiamo P12345."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dopo il trattamento termico abbiamo ancora P12345."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dopo la rettifica abbiamo ancora P12345."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quello che cambia è il suo stato di avanzamento rispetto al ciclo necessario per realizzare il prodotto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prima della tempra è P12345 che non ha ancora completato il trattamento. Dopo la tempra è P12345 che ha completato una fase ulteriore. Alla fine del ciclo è P12345 finito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il trattamento termico ha modificato il componente fisicamente e ne ha aumentato il costo incorporato. Non per questo ha necessariamente generato una nuova identità tecnica."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il principio è semplice: il codice articolo identifica il prodotto. Il ciclo produttivo identifica le trasformazioni necessarie per ottenerlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "TOYOTA: IL PRODOTTO ATTRAVERSA I PROCESSI, NON DEVE ESSERE REINVENTATO A OGNI PROCESSO"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Toyota Production System costruisce il Just in Time intorno al flusso sincronizzato tra processi successivi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Toyota definisce il principio come produzione di ciò che serve, quando serve e nella quantità necessaria. Aggiunge che beni e informazioni non devono rimanere bloccati durante la produzione e che il processo successivo deve prelevare dal processo precedente le parti di cui necessita."
+      },
+      {
+        "type": "paragraph",
+        "text": "È il principio del Pull System."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nella ricostruzione storica ufficiale Toyota del cosiddetto supermarket method, il processo successivo viene concepito come il cliente del processo precedente. È il processo a valle a prelevare quello che serve; quello a monte reintegra quanto è stato utilizzato. Toyota racconta che proprio da questa logica si sviluppò il sistema Kanban."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è significativo che Toyota descriva il Kanban come una scheda che indica nome del prodotto, numero del prodotto e quantità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il prodotto possiede quindi un’identità, mentre il sistema governa la sua movimentazione e il suo avanzamento attraverso i processi."
+      },
+      {
+        "type": "paragraph",
+        "text": "La conseguenza gestionale è importante."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se per sapere che P12345 è stato temprato devo trasformarlo in P12345T, e dopo la rettifica devo trasformarlo nuovamente in P12345R, sto utilizzando l’anagrafica articolo per rappresentare l’avanzamento produttivo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il sistema non vede più un prodotto che attraversa tre operazioni. Vede tre prodotti."
+      },
+      {
+        "type": "paragraph",
+        "text": "E questo genera anagrafiche, movimenti, relazioni, giacenze e transazioni che possono esistere soltanto perché il sistema non sta rappresentando correttamente il processo."
+      },
+      {
+        "type": "paragraph",
+        "text": "LA DOMANDA CORRETTA NON È: IL PEZZO È CAMBIATO?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Naturalmente è cambiato. Qualsiasi lavorazione industriale modifica qualcosa."
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda utile è un’altra: la trasformazione ha creato una nuova identità tecnica o commerciale oppure ha semplicemente fatto avanzare il prodotto nel proprio ciclo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "È questa domanda che dovrebbe determinare il codice."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prendiamo una zincatura."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se il disegno di P12345 prescrive obbligatoriamente che il pezzo debba essere zincato, il componente prima della zincatura è semplicemente un P12345 non ancora completato. La zincatura appartiene al suo ciclo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se invece l’azienda commercializza autonomamente P12345 non zincato e P67890 zincato, e i due prodotti possono essere ordinati, utilizzati o gestiti separatamente, allora siamo di fronte a due identità differenti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo stesso vale per il colore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se nero, rosso e blu sono vere configurazioni ordinabili dal cliente, la variante deve essere identificata nel sistema. Se invece il componente deve sempre essere RAL 9005 perché questa è la specifica del prodotto, il passaggio dalla condizione non verniciata alla condizione verniciata non crea automaticamente un nuovo articolo."
+      },
+      {
+        "type": "paragraph",
+        "text": "QUANDO IL CODICE NON DOVREBBE CAMBIARE"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il codice dovrebbe normalmente rimanere invariato quando la lavorazione costituisce una fase obbligatoria del ciclo con cui si ottiene il prodotto definito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un trattamento termico previsto dal disegno. Una zincatura prevista dalla specifica. Una verniciatura obbligatoria. Una rettifica finale. Una saldatura. Una lavorazione meccanica intermedia."
+      },
+      {
+        "type": "paragraph",
+        "text": "In questi casi cambia lo stato del prodotto, non necessariamente la sua identità."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ERP deve sapere che cosa è stato fatto senza essere costretto a cambiare ciò che il prodotto è."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo può essere rappresentato attraverso fase, operazione, lotto, ordine di produzione, stato WIP, ubicazione, controllo qualità e documentazione di processo."
+      },
+      {
+        "type": "paragraph",
+        "text": "QUANDO INVECE IL CODICE DEVE CAMBIARE"
+      },
+      {
+        "type": "paragraph",
+        "text": "La situazione è differente quando la trasformazione produce qualcosa che deve vivere autonomamente nel sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un nuovo codice diventa coerente quando il risultato possiede una propria identità tecnica o commerciale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può essere acquistato separatamente. Può essere venduto separatamente. Può essere utilizzato autonomamente in una distinta base. Può esistere contemporaneamente all’altra configurazione come variante valida. Può avere una propria politica di approvvigionamento o di scorta. Oppure rappresenta un semilavorato standard utilizzato come componente autonomo da più prodotti successivi."
+      },
+      {
+        "type": "paragraph",
+        "text": "In quel caso non stiamo più descrivendo soltanto una fase. Stiamo effettivamente gestendo un altro oggetto."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinzione quindi non è prima della lavorazione e dopo la lavorazione. È stessa identità oppure nuova identità."
+      },
+      {
+        "type": "paragraph",
+        "text": "MA ALLORA A MAGAZZINO COME DISTINGUO DUE PEZZI CON LO STESSO CODICE?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Qui nasce spesso l’obiezione principale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se P12345 prima del trattamento e P12345 dopo il trattamento hanno lo stesso codice, come faccio a distinguerli?"
+      },
+      {
+        "type": "paragraph",
+        "text": "La risposta è che stesso codice non significa stock indistinto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il sistema deve mantenere separata l’identità del prodotto dalla sua condizione produttiva."
+      },
+      {
+        "type": "paragraph",
+        "text": "Due quantità dello stesso articolo possono quindi essere distinte attraverso stato WIP, fase raggiunta, lotto, ordine di produzione, ubicazione fisica, stato qualità o altre dimensioni previste dall’ERP."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo non è soltanto un problema di organizzazione industriale. Ha una conseguenza contabile molto precisa."
+      },
+      {
+        "type": "paragraph",
+        "text": "IL CODICE CIVILE DISTINGUE IL PRODOTTO IN CORSO DAL PRODOTTO FINITO"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nel bilancio ordinario italiano l’articolo 2424 del Codice civile distingue espressamente, all’interno delle rimanenze dell’attivo circolante, i prodotti in corso di lavorazione e semilavorati dai prodotti finiti e merci."
+      },
+      {
+        "type": "paragraph",
+        "text": "In particolare, la voce C.I.2 riguarda prodotti in corso di lavorazione e semilavorati, mentre la voce C.I.4 riguarda prodotti finiti e merci."
+      },
+      {
+        "type": "paragraph",
+        "text": "È una distinzione sostanziale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un prodotto che non ha terminato il processo e un prodotto finito non rappresentano contabilmente la stessa condizione patrimoniale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma questo non significa che il Codice civile imponga di attribuire loro codici articolo differenti."
+      },
+      {
+        "type": "paragraph",
+        "text": "La distinzione richiesta riguarda classificazione e valore della rimanenza, non il formato con cui l’azienda costruisce la propria codifica interna."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’OIC 13 rende il concetto ancora più preciso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Definisce i prodotti in corso di lavorazione come materiali, parti e assiemi in fase di avanzamento, i semilavorati come parti finite di produzione interna destinate a un processo successivo e i prodotti finiti come prodotti di propria fabbricazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quindi P12345 può comparire nella realtà produttiva contemporaneamente in condizioni differenti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una quantità può essere ancora in corso di lavorazione. Un’altra può aver completato il trattamento. Un’altra può essere prodotto finito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il codice può essere identico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quello che non può essere perso è lo stato a cui appartiene ciascuna quantità."
+      },
+      {
+        "type": "paragraph",
+        "text": "PER IL CONTABILE IL PROBLEMA VERO È IL VALORE INCORPORATO"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supponiamo che P12345 abbia accumulato 40 euro di costo prima del trattamento termico."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il trattamento costa 8 euro."
+      },
+      {
+        "type": "paragraph",
+        "text": "La rettifica finale altri 7 euro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alla data dell’inventario potremmo avere 20 pezzi prima del trattamento, 15 pezzi trattati e 10 pezzi completamente finiti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sono tutti P12345."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma economicamente non sono tutti nella stessa condizione."
+      },
+      {
+        "type": "paragraph",
+        "text": "I primi hanno accumulato 40 euro. I secondi 48 euro. Gli ultimi 55 euro."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’articolo 2426, comma 1, numero 9 del Codice civile prevede che le rimanenze siano iscritte al costo di acquisto o di produzione oppure, se inferiore, al valore di realizzazione desumibile dall’andamento del mercato."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’OIC 13 precisa che il costo di produzione comprende i costi diretti e indiretti necessari per portare le rimanenze nelle condizioni e nel luogo attuali. Tra i costi direttamente riferibili rientrano materiali, manodopera e servizi riferibili al processo di fabbricazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo è il punto decisivo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il valore può cambiare senza che debba cambiare il codice."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il trattamento ha aggiunto valore produttivo al pezzo. Non ha automaticamente creato un altro articolo."
+      },
+      {
+        "type": "paragraph",
+        "text": "E SE IL TRATTAMENTO VIENE EFFETTUATO DA UN FORNITORE ESTERNO?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il principio rimane lo stesso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se P12345 viene inviato a un terzista per zincatura o trattamento termico e il bene rimane di proprietà dell’azienda, il fatto che sia fisicamente fuori dallo stabilimento non elimina la rimanenza."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’OIC 13 include espressamente le giacenze di proprietà della società presenti presso terzi in conto deposito, lavorazione o prova."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il sistema può quindi rappresentare P12345 nello stabilimento, P12345 presso il terzista in lavorazione e P12345 rientrato con trattamento completato."
+      },
+      {
+        "type": "paragraph",
+        "text": "È sempre lo stesso articolo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Cambiano posizione, fase, stato e costo accumulato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il costo della lavorazione esterna direttamente riferibile al processo può inoltre concorrere al costo di produzione secondo i criteri dell’OIC 13."
+      },
+      {
+        "type": "paragraph",
+        "text": "IL CONTEGGIO FISICO E LA VALORIZZAZIONE NON SONO LA STESSA COSA"
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo è probabilmente uno dei punti più importanti per chi gestisce inventario, produzione e amministrazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dire “abbiamo 45 P12345” può essere corretto dal punto di vista puramente quantitativo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma può essere insufficiente dal punto di vista contabile."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché bisogna sapere quanti dei 45 sono ancora in corso, quali lavorazioni hanno già assorbito e quanti sono realmente prodotti finiti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il conteggio stabilisce quanta materia fisica esiste."
+      },
+      {
+        "type": "paragraph",
+        "text": "La classificazione stabilisce in quale condizione produttiva si trova."
+      },
+      {
+        "type": "paragraph",
+        "text": "La valorizzazione stabilisce quanto costo è incorporato in quella condizione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il codice identifica l’oggetto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Sono quattro dimensioni diverse."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un ERP industriale deve essere capace di conservarle senza costringere il codice articolo a rappresentarle tutte contemporaneamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "IL PROBLEMA VERO NON È QUINDI LA CODIFICA"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando un’azienda crea codici differenti per grezzo, tornito, trattato, zincato e finito soltanto per riuscire a sapere dove si trova il pezzo, può esserci un problema più profondo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Forse il codice sta facendo il lavoro che dovrebbero fare il ciclo, il WIP e la gestione di magazzino."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il risultato è una proliferazione di articoli che apparentemente aumenta il controllo, ma può produrre l’effetto opposto: più anagrafiche, più trasformazioni, più possibilità di errore e una minore leggibilità dell’identità reale del prodotto."
+      },
+      {
+        "type": "paragraph",
+        "text": "La struttura più robusta è invece questa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il codice identifica il prodotto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il ciclo identifica ciò che deve essere fatto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il WIP identifica a che punto siamo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il lotto e l’ubicazione identificano ciò che stiamo fisicamente gestendo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La contabilità attribuisce il valore accumulato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Toyota ci mostra la logica del flusso tra processi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il Codice civile distingue giuridicamente le categorie delle rimanenze."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’OIC 13 stabilisce come classificarle e valorizzarle."
+      },
+      {
+        "type": "paragraph",
+        "text": "Mettendo insieme questi tre livelli emerge un principio industriale molto semplice: non creare una nuova identità soltanto perché il prodotto ha fatto un passo avanti nel proprio processo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il codice deve cambiare quando cambia davvero il prodotto che l’azienda deve identificare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non quando cambia semplicemente lo stato in cui quel prodotto si trova."
+      },
+      {
+        "type": "paragraph",
+        "text": "FONTI E RIFERIMENTI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Toyota Motor Corporation, Toyota Production System. https://global.toyota/en/company/vision-and-philosophy/production-system/"
+      },
+      {
+        "type": "paragraph",
+        "text": "Toyota Motor Corporation, 75 Years of Toyota, Supermarket Method and Kanban. https://www.toyota-global.com/company/history_of_toyota/75years/text/taking_on_the_automotive_business/chapter2/section7/item4.html"
+      },
+      {
+        "type": "paragraph",
+        "text": "Codice civile, articolo 2424, classificazione delle rimanenze nello stato patrimoniale, e articolo 2426, comma 1, numero 9, criteri di valutazione delle rimanenze. Testo ufficiale consultabile su Normattiva. https://www.normattiva.it/"
+      },
+      {
+        "type": "paragraph",
+        "text": "Organismo Italiano di Contabilità, OIC 13, Rimanenze. https://www.fondazioneoic.eu/wp-content/uploads/2026/01/2016-12-OIC-13-Rimanenze.pdf"
+      },
+      {
+        "type": "paragraph",
+        "text": "IFRS Foundation, IAS 2, Inventories. https://www.ifrs.org/issued-standards/list-of-standards/ias-2-inventories/"
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmtagx0qx00096c7kdfmkbxyp",
     "slug": "oggi-sonoff-e-entrata-a-casa-mia-e26ad8",
     "title": "Oggi SONOFF è entrata a casa mia.",
