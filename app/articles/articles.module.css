@@ -225,9 +225,9 @@
   line-height: 1.05;
 }
 .articleBody p {
-  margin: 0 0 1.45rem;
+  margin: 0 0 .9rem;
   font-size: clamp(1.04rem, 1.7vw, 1.2rem);
-  line-height: 1.76;
+  line-height: 1.68;
 }
 
 .articleFooter {
