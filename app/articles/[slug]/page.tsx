@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import type { ReactNode } from "react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { Linkedin } from "lucide-react";
@@ -8,6 +9,14 @@ import styles from "../articles.module.css";
 type ArticlePageProps = {
   params: Promise<{ slug: string }>;
 };
+
+function renderInline(text: string): ReactNode[] {
+  return text.split(/(\*\*[^*]+\*\*|\*[^*\n]+\*)/g).filter(Boolean).map((part, index) => {
+    if (part.startsWith("**") && part.endsWith("**")) return <strong key={index}>{part.slice(2, -2)}</strong>;
+    if (part.startsWith("*") && part.endsWith("*")) return <em key={index}>{part.slice(1, -1)}</em>;
+    return <span key={index}>{part}</span>;
+  });
+}
 
 export function generateStaticParams() {
   return portfolioArticles.map((article) => ({ slug: article.slug }));
@@ -82,9 +91,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <div className={styles.articleBody}>
           {article.blocks.map((block, index) =>
             block.type === "heading" ? (
-              <h2 key={`${article.id}-${index}`}>{block.text}</h2>
+              <h2 key={`${article.id}-${index}`}>{renderInline(block.text)}</h2>
             ) : (
-              <p key={`${article.id}-${index}`}>{block.text}</p>
+              <p key={`${article.id}-${index}`}>{renderInline(block.text)}</p>
             ),
           )}
         </div>
