@@ -1,5 +1,142 @@
 export const articles = [
   {
+    "id": "cmtmp54ir00qjb87khjm376f0",
+    "slug": "pl-la-commessa-migliore-potrebbe-avere-il-margine-peggiore-lefa9x",
+    "title": "P&L La commessa migliore potrebbe avere il margine peggiore",
+    "subtitle": "Entrambe fatturano 100.000 euro. Entrambe lasciano 20.000 euro di margine.",
+    "abstract": "Entrambe fatturano 100.000 euro. Entrambe lasciano 20.000 euro di margine.",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "P&L La commessa migliore potrebbe avere il margine peggiore",
+    "seoDescription": "Entrambe fatturano 100.000 euro. Entrambe lasciano 20.000 euro di margine.",
+    "publishedAt": "2026-09-07T11:43:35.544Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/pl-la-commessa-migliore-potrebbe-avere-il-margine-peggiore-lefa9x/cover.png",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Ti propongo due commesse. Entrambe fatturano 100.000 euro ed entrambe lasciano 20.000 euro di margine. Quale scegli? Probabilmente è indifferente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi aggiungiamo un'informazione. La prima attraversa l'azienda in 30 giorni, la seconda ne richiede 120. Ancora indifferente? Aggiungiamone un'altra: la prima utilizza 40 ore della risorsa che oggi limita la capacità dell'azienda, la seconda ne utilizza 120. Ora quale scegli?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ultimo dato: per completare la prima immobilizziamo 50.000 euro, per la seconda 150.000. I numeri sono volutamente ipotetici e l'esperimento serve a mostrare qualcosa di meno ovvio. **Le due commesse non sono mai state economicamente uguali.** Eravamo noi a guardarle attraverso una misura che non conteneva abbastanza informazioni."
+      },
+      {
+        "type": "heading",
+        "text": "Il numero era giusto. La domanda era sbagliata."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il P&L, Profit and Loss, è uno strumento fondamentale: ricavi, costi, margine, risultato. Il problema nasce quando da strumento di rappresentazione economica diventa, implicitamente, il modello con cui pensiamo l'azienda. Il conto economico può dirci con grande precisione che cosa è successo economicamente, ma molto meno direttamente ci dice come è successo. È questa distinzione a cambiare il modo in cui leggiamo i numeri."
+      },
+      {
+        "type": "paragraph",
+        "text": "L'Institute of Management Accountants distingue chiaramente i due piani: un modello di managerial costing dovrebbe permettere al manager di muoversi dall'effetto monetario alla causa operativa e, nella direzione opposta, di comprendere l'effetto economico di una decisione operativa. È una differenza enorme, perché le aziende non producono margine. Producono, progettano, comprano, aspettano, movimentano, correggono, installano, fatturano e incassano. **Il margine arriva dopo.**"
+      },
+      {
+        "type": "heading",
+        "text": "E se avessimo sempre guardato il prodotto sbagliato?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Torniamo alle nostre due commesse. Se il 20 per cento di margine è uguale, perché ora una ci sembra migliore? Perché abbiamo introdotto il tempo, poi la capacità e infine il capitale. Improvvisamente ciò che sembrava identico non lo era più."
+      },
+      {
+        "type": "paragraph",
+        "text": "La Theory of Constraints e il Throughput Accounting affrontano da tempo una parte di questo problema. Quando esiste una risorsa vincolo, non basta chiedersi quale prodotto generi il throughput maggiore: diventa decisivo capire quanto throughput genera per ogni unità della risorsa che limita il sistema. ACCA mostra casi in cui un prodotto apparentemente più redditizio perde priorità quando si considera il tempo richiesto sul bottleneck. La redditività osservata senza il vincolo può quindi raccontare solo una parte della storia."
+      },
+      {
+        "type": "paragraph",
+        "text": "È controintuitivo solo fino a quando continuiamo a porre la domanda tradizionale: **quanto guadagno su questo lavoro?** La domanda potrebbe essere un'altra: **quanto valore riesco a far attraversare il sistema con la capacità che realmente mi limita?** Non è una sfumatura. Può produrre decisioni completamente diverse."
+      },
+      {
+        "type": "heading",
+        "text": "Un'ora costa davvero un'ora?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Supponiamo di avere una risorsa interna già presente in azienda. Le attribuiamo un costo orario e poi attribuiamo quel costo alla commessa. Contabilmente il passaggio è comprensibile, ma managerialmente manca ancora qualcosa. Se quella capacità esiste comunque nel periodo considerato, la domanda non è soltanto quanto costa: è anche **che cosa sto rinunciando a fare utilizzandola qui?** Il costo della capacità e il consumo della capacità non sono esattamente lo stesso problema. Kaplan e Anderson, sviluppando il Time Driven Activity Based Costing, hanno proposto di collegare il costo della capacità disponibile al tempo richiesto dalle diverse attività, rendendo visibile anche la capacità non utilizzata. A quel punto entra un'altra domanda: **quanto sistema sta consumando questa commessa?** Non soltanto quanti euro."
+      },
+      {
+        "type": "heading",
+        "text": "Poi arriva il capitale"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una commessa produce 20.000 euro di margine. Bene, ma quanto capitale abbiamo dovuto mettere in movimento per ottenerli? Materiale, WIP, acconti, scorte, crediti e attrezzature dedicate entrano tutti nella stessa storia economica. E soprattutto conta per quanto tempo quel capitale resta dentro il sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il margine non contiene da solo questa informazione. È uno dei motivi per cui la logica del value based management affianca alla redditività misure come ROIC ed economic profit. Due attività con risultati apparentemente simili possono utilizzare quantità di capitale molto diverse e quindi creare quantità di valore molto diverse. **100.000 euro immobilizzati per dieci giorni e 100.000 euro immobilizzati per centottanta giorni sono davvero la stessa cosa?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Evidentemente no. Eppure il tempo di attraversamento di quel capitale non compare davanti ai nostri occhi quando osserviamo semplicemente il margine. Il numero resta corretto, ma non contiene da solo la dinamica che lo ha prodotto. Il problema torna quindi a essere la domanda che gli stiamo facendo."
+      },
+      {
+        "type": "heading",
+        "text": "Allora aggiungiamo KPI"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sembra la soluzione naturale, ma non necessariamente lo è. Nel 2026 McKinsey ha pubblicato un'analisi condotta su 18 aziende industriali: secondo i dati raccolti, soltanto il 29 per cento dei KPI definiti e monitorati veniva effettivamente utilizzato nei processi decisionali. Forse, quindi, non abbiamo un problema di scarsità di numeri. Potremmo avere il problema opposto: **vediamo sempre più numeri e sempre meno relazioni.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Aggiungere trenta indicatori intorno a un P&L non significa automaticamente capire meglio l'azienda. La domanda interessante diventa un'altra: **quali relazioni collegano ciò che accade fisicamente nell'impresa al risultato economico che vedremo settimane o mesi dopo?** Il driver based modelling nasce proprio per collegare driver operativi e risultati finanziari, trasformando variabili del business in relazioni utilizzabili per previsione e decisione. Il punto non è avere più informazioni, ma capire meglio le cause."
+      },
+      {
+        "type": "heading",
+        "text": "E se smettessimo di partire dai costi?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Proviamo a rovesciare il modello. Non più **Ricavi → Costi → Margine**, ma **Flusso → Vincolo → Capacità → Capitale → Tempo → Cash → Risultato**. Il P&L rimane, semplicemente cambia posizione. Diventa la conseguenza finanziaria di un sistema economico sottostante, non il sistema stesso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non sarebbe nemmeno un'idea priva di precedenti industriali. Una divisione di Parker Hannifin ha sperimentato un sistema di Lean Accounting sostituendo, per la gestione operativa, lo standard costing con il value stream costing. Il modello comprendeva misure operative, misure del value stream, un P&L per flusso di valore, analisi della capacità e un box score capace di mostrare insieme informazioni operative, finanziarie e di capacità. Quindi si può fare, ma forse possiamo spingerci ancora oltre."
+      },
+      {
+        "type": "heading",
+        "text": "Non una redditività. Una firma economica."
+      },
+      {
+        "type": "paragraph",
+        "text": "Smetterei di pretendere che un unico numero ci dica se una commessa è buona. Una commessa dovrebbe avere una **firma economica** che renda visibili insieme il valore incrementale generato, la capacità critica utilizzata, il capitale assorbito, il tempo di permanenza nel sistema e la velocità con cui quel capitale torna cash. Dovrebbe mostrare anche quali altre attività rallenta, quale capacità libera alla fine e quale conoscenza, standardizzazione o opportunità futura lascia nell'organizzazione. Sono dimensioni diverse e proprio per questo non dovrebbero scomparire dentro un solo indicatore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non comprimerei tutto in un nuovo indice, perché creeremmo soltanto un altro numero da ottimizzare. Terrei invece visibili le diverse dimensioni e le loro relazioni. Due commesse possono avere lo stesso margine e firme economiche completamente diverse. Ed è proprio quella differenza che ci serve per decidere. ## Una domanda da portare alla prossima riunione"
+      },
+      {
+        "type": "paragraph",
+        "text": "La prossima volta che qualcuno dice “questa commessa ha il 24 per cento di margine”, non contestare il numero. Chiedi **quanto tempo richiede**, **quale capacità critica occupa**, **quanto capitale immobilizza**, **quando torna cash** e **che cosa impedisce al resto dell'azienda di fare mentre la stiamo eseguendo**. Poi guarda di nuovo quel 24 per cento. Potrebbe essere ancora un ottimo affare, oppure potresti accorgerti che stavamo chiamando “redditizia” una commessa semplicemente perché non avevamo ancora fatto abbastanza domande."
+      },
+      {
+        "type": "paragraph",
+        "text": "Forse il problema del P&L non è ciò che mostra, ma quanto facilmente dimentichiamo tutto ciò che lascia fuori dall'inquadratura. **È questa assenza, più del numero stesso, che può cambiare una decisione.** Il prossimo salto nel controllo di gestione potrebbe quindi non essere avere un conto economico più dettagliato. Potrebbe essere costruire un sistema capace di seguire il valore mentre si muove attraverso l'impresa, prima che diventi una riga in un conto economico."
+      },
+      {
+        "type": "heading",
+        "text": "Fonti essenziali"
+      },
+      {
+        "type": "paragraph",
+        "text": "Institute of Management Accountants, *Conceptual Framework for Managerial Costing*, 2014. ACCA, *Limiting Factor Analysis and Throughput Accounting*. Robert S. Kaplan e Steven R. Anderson, *Time Driven Activity Based Costing*, Harvard Business Review, 2004. Lean Enterprise Institute, *Creating the Course and Tools for a Lean Accounting System*, caso Parker Hannifin."
+      },
+      {
+        "type": "paragraph",
+        "text": "McKinsey & Company, *Putting Value Back in Value Based Management*. McKinsey & Company, *Selecting P&L Linked KPIs for Industrial Transformations*, 27 febbraio 2026. Association for Financial Professionals, *FP&A Guide to Driver Based Models and Plans*, 2024. Le fonti sostengono i singoli approcci richiamati; l'integrazione proposta nell'articolo è una costruzione editoriale e manageriale."
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmtkdd0z300oub87kmkd2nnvk",
     "slug": "quando-un-pezzo-cambia-ma-il-suo-codice-no-iye1u3",
     "title": "Quando un pezzo cambia, ma il suo codice no",
