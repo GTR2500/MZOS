@@ -1,5 +1,398 @@
 export const articles = [
   {
+    "id": "cmu3qbwil0004yg7k1kuwncrt",
+    "slug": "se-sappiamo-cosa-fare-perche-non-lo-facciamo-iu0gl3",
+    "title": "Se sappiamo cosa fare, perché non lo facciamo?",
+    "subtitle": "Le organizzazioni non sono lente perché le persone sono lente: spesso sono lente perché il sistema consente di aspettare e diluire la responsabilità.",
+    "abstract": "Le organizzazioni non sono lente perché le persone sono lente: spesso sono lente perché il sistema consente di aspettare e diluire la responsabilità.",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Se sappiamo cosa fare, perché non lo facciamo?",
+    "seoDescription": "Le organizzazioni non sono lente perché le persone sono lente: spesso sono lente perché il sistema consente di aspettare e diluire la responsabilità.",
+    "publishedAt": "2026-09-16T06:45:43.449Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/se-sappiamo-cosa-fare-perche-non-lo-facciamo-iu0gl3/cover.png",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "È lunedì mattina. In azienda esiste un problema. Non è particolarmente misterioso: le persone coinvolte lo conoscono, probabilmente ne hanno già parlato e qualcuno sa anche quale potrebbe essere la soluzione. Passano due giorni. Il problema è ancora lì."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nel frattempo sono partite alcune mail, qualcuno ha chiesto un confronto, un responsabile vuole essere aggiornato, un altro preferisce coinvolgere un collega prima di prendere posizione. Forse viene convocata una riunione. Sei persone discutono per quarantacinque minuti e, alla fine, tutti hanno una comprensione ancora migliore del problema. Ma il problema esiste ancora."
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda interessante non è perché nessuno sia competente. Probabilmente lo sono tutti. La domanda è un’altra: **se sappiamo cosa fare, perché a volte è così difficile farlo?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un organigramma racconta un’azienda come una struttura ordinata. Direzione, amministrazione, commerciale, progettazione, produzione, qualità, logistica. Linee precise, responsabilità definite, persone inserite al posto giusto. Poi l’azienda comincia realmente a funzionare e scopriamo che l’organigramma rappresenta soltanto una parte del sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Esistono relazioni personali, equilibri sedimentati, territori considerati propri, persone che vogliono essere coinvolte prima di una decisione e altre che preferiscono non esporsi finché non conoscono la posizione del proprio responsabile. Esistono obiettivi di funzione che entrano in conflitto con quelli di altre funzioni. Esistono decisioni formalmente prese che continuano a essere informalmente negoziate."
+      },
+      {
+        "type": "paragraph",
+        "text": "Niente di tutto questo è necessariamente patologico. Le aziende sono organizzazioni umane e il confronto è indispensabile. Esiste però un punto oltre il quale il confronto smette di migliorare una decisione e comincia semplicemente a impedirne l’esecuzione. Riconoscere quel punto è una delle competenze manageriali più difficili."
+      },
+      {
+        "type": "heading",
+        "text": "Quando il problema diventa urgente"
+      },
+      {
+        "type": "paragraph",
+        "text": "Immaginiamo adesso che il problema del lunedì mattina non sia una consegna in ritardo. Immaginiamo che una macchina critica si sia fermata e che ogni ora di inattività abbia un costo elevato. Improvvisamente qualcosa cambierebbe. Le conversazioni diventerebbero più brevi, le persone necessarie verrebbero chiamate immediatamente, qualcuno assumerebbe il coordinamento e le informazioni mancanti verrebbero cercate mentre altre attività sono già in corso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le domande diventerebbero molto concrete. Che cosa sappiamo? Che cosa non sappiamo? Qual è il rischio? Che cosa dobbiamo decidere adesso? Che cosa possiamo decidere dopo? Chi coordina? Chi interviene? Di quali risorse abbiamo bisogno? Quando verifichiamo il risultato?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Nessuno direbbe di aspettare la riunione di giovedì. Nessuno pretenderebbe di conoscere ogni variabile prima di muoversi. Nessuno sarebbe soddisfatto sapendo che il problema è stato correttamente inserito in una presentazione. La crisi avrebbe modificato il comportamento dell’organizzazione, eppure le persone sarebbero esattamente le stesse."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo dovrebbe farci riflettere. Forse le organizzazioni non sono lente perché le persone sono lente. A volte sono lente perché **il sistema permette di aspettare**."
+      },
+      {
+        "type": "heading",
+        "text": "Il tempo non è infinito"
+      },
+      {
+        "type": "paragraph",
+        "text": "Qui emerge una delle differenze più profonde tra una cultura operativa e molti ambienti aziendali. Chi è cresciuto in un contesto operativo impara molto presto una cosa scomoda: le informazioni non saranno quasi mai complete quando arriverà il momento di decidere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Vorremmo conoscere tutto, ma raramente accade. Manca un dato, una previsione può rivelarsi sbagliata, un’informazione arriva in ritardo, le condizioni cambiano mentre il piano viene eseguito, una risorsa prevista non è disponibile. Eppure bisogna agire."
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda quindi non è più se possediamo tutte le informazioni. Diventa: **possediamo informazioni sufficienti per prendere adesso la migliore decisione possibile?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sono due domande molto diverse. La prima può giustificare un’attesa quasi infinita, perché domani sarà sempre disponibile qualche informazione in più. La seconda obbliga invece a valutare anche il costo dell’attesa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per una mentalità operativa il tempo non è lo spazio vuoto tra una decisione e quella successiva. È una risorsa, e a volte è la risorsa più importante. Ogni minuto utilizzato per ottenere un’informazione aggiuntiva dovrebbe quindi produrre un valore superiore al costo di non agire durante quello stesso minuto."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo cambia radicalmente il modo di decidere. Non si aspetta di eliminare l’incertezza. Si impara a governarla. Si decide con ciò che si conosce, si coordina ciò che può già partire, si continua contemporaneamente a raccogliere informazioni, si osservano gli effetti delle prime azioni e si corregge il piano quando la realtà restituisce nuovi dati."
+      },
+      {
+        "type": "paragraph",
+        "text": "Agire non significa essere certi. Significa assumersi la responsabilità di muoversi prima che la certezza arrivi troppo tardi per essere utile."
+      },
+      {
+        "type": "paragraph",
+        "text": "È probabilmente questo uno dei punti che un manager proveniente da un ambiente operativo porta con maggiore forza nel mondo civile. Non il culto della velocità, ma la consapevolezza che il tempo appartiene al problema tanto quanto le informazioni disponibili."
+      },
+      {
+        "type": "heading",
+        "text": "Quando questa logica diventa quotidiana"
+      },
+      {
+        "type": "paragraph",
+        "text": "Esistono organizzazioni nelle quali lavorare con informazioni incomplete, coordinare competenze differenti, decidere sotto pressione, utilizzare risorse limitate e adattare rapidamente un piano non rappresentano situazioni eccezionali. Fanno parte del modo stesso in cui quelle organizzazioni sono costruite."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le organizzazioni militari appartengono a questa categoria. Questo non significa che ogni militare sia un grande manager o che ogni struttura militare sia sempre efficiente. Significa però che la loro architettura nasce attorno a un problema molto preciso: trasformare un obiettivo in un piano, un piano in responsabilità e le responsabilità in azioni coordinate anche quando il quadro non è completo."
+      },
+      {
+        "type": "paragraph",
+        "text": "La dottrina NATO formalizza questo principio in modo netto: una buona capacità di comando richiede decisioni tempestive ed efficaci e, nonostante la crescente disponibilità di dati, i comandanti devono continuare a decidere sulla base di una comprensione inevitabilmente incompleta e imperfetta della situazione. Il punto non è ignorare le informazioni, ma capire quando attendere ancora diventa più rischioso che agire."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un operativo non aspetta necessariamente di sapere tutto. Deve sapere abbastanza per comprendere il rischio che sta assumendo. Poi decide, coordina, agisce, osserva e corregge. Perché sa che nel tempo necessario a ottenere l’informazione perfetta il problema potrebbe essere già cambiato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Entrando in un’organizzazione civile può quindi verificarsi uno strano cortocircuito. Chi arriva da quel mondo fatica a comprendere perché una decisione già presa continui a essere discussa, perché si attendano dati che probabilmente non cambieranno la scelta, perché una responsabilità comunicata possa diventare qualche giorno dopo “non avevo capito che spettasse a me” oppure perché una funzione possa ottimizzare il proprio risultato pur sapendo di creare un problema a un’altra parte della stessa azienda."
+      },
+      {
+        "type": "paragraph",
+        "text": "E soprattutto può non comprendere una domanda che nel mondo aziendale è frequente: come facciamo a convincere tutti a muoversi nella stessa direzione? Dal suo punto di vista ne esiste una precedente, ancora più semplice: **non siamo già la stessa organizzazione?**"
+      },
+      {
+        "type": "heading",
+        "text": "L’incomprensione tra due culture"
+      },
+      {
+        "type": "paragraph",
+        "text": "Da fuori questa mentalità può apparire rigida. Chi arriva da una cultura operativa può sembrare impaziente perché vuole arrivare alla decisione, troppo diretto perché tende a separare il problema dalla persona, ossessionato da responsabilità, scadenze, proprietari delle attività e verifiche."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può anche sembrare disposto a decidere troppo presto. Ma qui esiste spesso un equivoco. L’operativo non considera positiva una decisione presa senza informazioni. Considera pericolosa l’illusione di poter attendere informazioni infinite."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il suo problema non è scegliere tra informazione e velocità. È individuare il punto nel quale il valore dell’informazione aggiuntiva diventa inferiore al costo dell’attesa. È un criterio molto più manageriale di quanto possa sembrare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se una scelta è reversibile e il rischio limitato, aspettare la perfezione può essere più costoso dell’errore. Se una scelta è difficilmente reversibile, il livello di analisi necessario aumenta. La velocità non è fretta. È capacità di distinguere quali decisioni richiedono ancora analisi e quali richiedono movimento."
+      },
+      {
+        "type": "heading",
+        "text": "Prima si discute, poi si agisce"
+      },
+      {
+        "type": "paragraph",
+        "text": "Si parla spesso di disciplina quando si confrontano questi due mondi. Probabilmente è la parola sbagliata. La differenza più interessante riguarda il confine tra confronto, decisione ed esecuzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Prima della decisione deve esserci discussione. Un collaboratore competente dovrebbe poter dire al proprio responsabile che considera sbagliato il piano. Un tecnico dovrebbe poter fermare una scelta quando possiede un’informazione che gli altri non hanno. Una buona organizzazione dovrebbe proteggere questo tipo di dissenso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma deve arrivare un momento nel quale qualcuno decide. Ed è ciò che accade dopo a determinare la qualità dell’organizzazione. Una decisione può diventare un punto di partenza oppure l’inizio di una nuova negoziazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Amazon ha trasformato questa distinzione in uno dei propri Leadership Principles: “Have Backbone; Disagree and Commit”. Il principio è molto vicino alla logica operativa: un leader deve contestare una scelta quando ritiene che sia sbagliata, anche quando farlo è scomodo; una volta presa la decisione, però, deve impegnarsi completamente nella sua realizzazione. Amazon affianca a questo anche “Bias for Action”: la velocità conta e molte decisioni reversibili non richiedono analisi interminabili."
+      },
+      {
+        "type": "paragraph",
+        "text": "Jeff Bezos lo aveva espresso ancora più chiaramente nella lettera agli azionisti del 2016: molte decisioni dovrebbero essere prese quando si possiede circa il 70% delle informazioni che si vorrebbero avere, perché aspettare il 90% significa spesso essere troppo lenti. La condizione è saper riconoscere rapidamente un errore e correggerlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "È interessante perché Amazon non è un’organizzazione militare. È una delle più grandi organizzazioni civili, tecnologiche e logistiche del mondo. Eppure ha formalizzato culturalmente concetti che chi proviene da un ambiente operativo riconosce immediatamente: prima si discute, poi si decide, poi si agisce. E mentre si agisce si continua a osservare, perché se il quadro cambia deve cambiare anche il piano."
+      },
+      {
+        "type": "heading",
+        "text": "Perché alcune aziende cercano queste competenze"
+      },
+      {
+        "type": "paragraph",
+        "text": "La coincidenza diventa ancora più interessante osservando il recruiting. Amazon mantiene programmi dedicati ai veterani e riconosce esplicitamente leadership, problem solving e resilienza tra le qualità trasferibili dall’esperienza militare al mondo aziendale. Per alcuni ruoli nelle Operations presenta inoltre l’esperienza militare come particolarmente coerente con attività nelle quali bisogna guidare persone, decidere in tempo reale, risolvere problemi sotto pressione e mantenere l’operazione in movimento."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo non significa che un militare sia automaticamente un manager migliore. Significa qualcosa di più preciso: alcune competenze costruite in ambienti operativi sono particolarmente compatibili con Operations, logistica e leadership."
+      },
+      {
+        "type": "paragraph",
+        "text": "La ragione probabilmente non è l’obbedienza. È la familiarità con una combinazione molto particolare di condizioni: obiettivo chiaro, informazioni imperfette, tempo limitato, risorse da coordinare, imprevisti e responsabilità della decisione."
+      },
+      {
+        "type": "heading",
+        "text": "Cosa suggerisce la ricerca"
+      },
+      {
+        "type": "paragraph",
+        "text": "La questione non si limita ad Amazon. Una ricerca di Efraim Benmelech e Carola Frydman sui CEO con esperienza militare ha trovato un’associazione con politiche aziendali più conservative, minore coinvolgimento in frodi e risultati relativamente migliori durante periodi di difficoltà del settore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il punto non è sostenere che questi CEO siano universalmente migliori. Lo studio non lo dimostra. La domanda interessante è capire perché alcuni vantaggi sembrino emergere proprio nelle condizioni più difficili."
+      },
+      {
+        "type": "paragraph",
+        "text": "Uno studio pubblicato nel 2023 sul Pacific-Basin Finance Journal ha trovato risultati migliori in crescita delle vendite, efficienza dei costi e performance operativa nelle imprese guidate da executive con esperienza militare soprattutto nei settori sottoposti a forte pressione competitiva. Gli autori indicano tra i possibili meccanismi la resistenza alla pressione e la cultura organizzativa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ancora una volta il contesto sembra determinante. Quando tutto funziona, una cultura fortemente operativa può perfino sembrare eccessiva. Quando il quadro diventa incerto, il tempo si riduce e le variabili aumentano, alcune sue caratteristiche acquistano improvvisamente valore: capacità di decidere senza conoscere tutto, coordinamento, chiarezza, responsabilità e velocità di correzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo abbiamo visto, in una forma diversa, anche durante la pandemia. Nel marzo 2021, quando la campagna vaccinale italiana richiedeva un enorme sforzo di coordinamento e distribuzione, il generale Francesco Paolo Figliuolo assunse il ruolo di Commissario straordinario. Il sistema coinvolgeva naturalmente sanità, Governo, Regioni, Protezione Civile e molte altre strutture; l’esempio non dimostra una superiorità militare, ma mostra come, quando il problema diventa coordinare rapidamente una macchina complessa in condizioni non completamente prevedibili, competenze logistiche e operative acquistino valore."
+      },
+      {
+        "type": "heading",
+        "text": "Un’azienda non dovrebbe muoversi come un unico organismo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Torniamo alla nostra azienda del lunedì mattina. La produzione ritiene di aver già segnalato tutto, la progettazione aspetta un’informazione, il commerciale sostiene che il cliente abbia cambiato richiesta, la qualità vuole una verifica e il responsabile preferisce non intervenire finché non saranno tutti allineati."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ogni singola posizione può essere razionale. Eppure l’organizzazione nel suo insieme può essere completamente irrazionale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo è uno dei grandi paradossi del management: **una somma di comportamenti localmente corretti può produrre un risultato globalmente sbagliato**. Il commerciale ottimizza le vendite, la produzione la stabilità, la finanza il capitale, la qualità minimizza il rischio, la progettazione protegge la correttezza tecnica. Tutti possono raggiungere il proprio KPI mentre l’azienda perde tempo, margine o cliente."
+      },
+      {
+        "type": "paragraph",
+        "text": "W. Edwards Deming aveva posto questo problema al centro del pensiero sistemico: ottimizzare i singoli componenti non significa ottimizzare il sistema. Il compito del management è coordinare le parti verso il risultato complessivo, non permettere che ciascuna massimizzi il proprio indicatore a danno dell’insieme."
+      },
+      {
+        "type": "paragraph",
+        "text": "A quel punto la domanda non riguarda più le persone. Riguarda il sistema. Un’azienda possiede reparti differenti, competenze differenti e interessi locali differenti. Ma alla fine non dovrebbe comportarsi come un unico organismo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un’impresa non diventa un sistema semplicemente perché tutte le persone ricevono lo stipendio dalla stessa società. Diventa un sistema quando le singole parti sono capaci di rinunciare a una convenienza locale per proteggere il risultato complessivo. È molto più difficile di quanto sembri."
+      },
+      {
+        "type": "heading",
+        "text": "Il costo dell’attrito"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando pensiamo alla produttività immaginiamo macchinari, automazione, software, tempi ciclo e organizzazione del lavoro. Ma esiste un’altra forma di produttività: l’energia che l’organizzazione non spreca contro se stessa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ogni volta che una decisione deve essere presa due volte generiamo attrito. Ogni volta che chiediamo un’altra informazione pur sapendo che difficilmente cambierà la scelta generiamo attrito. Ogni volta che un manager deve verificare personalmente se qualcuno abbia fatto ciò che aveva già accettato di fare generiamo attrito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo stesso accade quando un reparto conserva un’informazione utile perché non ritiene che comunicarla sia di propria competenza, oppure quando un problema diventa personale e bisogna prima riparare la relazione per poter tornare a discutere del problema reale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una singola situazione sembra irrilevante. Moltiplicata per cento persone, duecento giorni lavorativi e migliaia di interazioni diventa struttura di costo. Non compare direttamente nel conto economico. Ma il conto economico ne contiene gli effetti."
+      },
+      {
+        "type": "heading",
+        "text": "Più struttura, meno necessità di comando"
+      },
+      {
+        "type": "paragraph",
+        "text": "Un buon sistema informativo non dovrebbe servire principalmente a controllare le persone. Dovrebbe servire a diminuire l’ambiguità e a ridurre il tempo necessario per decidere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Chi possiede questa attività? Quando deve essere completata? Qual è lo stato? Che cosa la sta bloccando? Quali informazioni sono disponibili adesso? Quali mancano realmente? Chi deve decidere? Che cosa possiamo già far partire mentre cerchiamo il resto?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando queste informazioni appartengono al sistema, una parte della politica organizzativa perde terreno. Non serve più discutere se la richiesta fosse stata ricevuta, affidarsi alla memoria o attendere che tutte le persone coinvolte ricostruiscano la stessa versione della realtà."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il sistema consente qualcosa di molto operativo: **agire su ciò che sappiamo mantenendo visibile ciò che ancora non sappiamo**. Il risultato è quasi paradossale. Più struttura può significare meno necessità di comando."
+      },
+      {
+        "type": "heading",
+        "text": "Anche l’operativo deve imparare"
+      },
+      {
+        "type": "paragraph",
+        "text": "Sarebbe troppo semplice concludere che il mondo operativo possiede la soluzione e quello civile dovrebbe copiarla. Non è così."
+      },
+      {
+        "type": "paragraph",
+        "text": "L’ambiente civile possiede qualcosa di estremamente prezioso: maggiore libertà di mettere in discussione l’autorità, negoziare soluzioni, creare alleanze trasversali e costruire consenso. Un operativo può decidere troppo rapidamente, sottovalutare una resistenza che contiene un’informazione importante o trattare come reversibile una decisione che non lo è."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può avere ragione sul problema e sbagliare completamente il modo di portare l’organizzazione verso la soluzione. La capacità di decidere con informazioni incomplete non deve quindi diventare un alibi per ignorare le informazioni disponibili."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il principio è molto più rigoroso: **non aspettare ciò che non serve, ma non ignorare ciò che può cambiare la decisione**. È una differenza sottile. Ed è probabilmente una delle forme più mature di leadership."
+      },
+      {
+        "type": "heading",
+        "text": "La domanda finale"
+      },
+      {
+        "type": "paragraph",
+        "text": "Torniamo un’ultima volta al problema del lunedì."
+      },
+      {
+        "type": "paragraph",
+        "text": "Immaginiamo questa volta un’azienda diversa. Le persone discutono apertamente. Chi vede un rischio lo dice. Le funzioni portano prospettive differenti al tavolo. Nessuno è obbligato a fingere di essere d’accordo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non possiedono tutte le informazioni e sanno che probabilmente non le possiederanno mai tutte. Ma comprendono quali siano realmente necessarie per decidere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi qualcuno decide."
+      },
+      {
+        "type": "paragraph",
+        "text": "Da quel momento il problema possiede un responsabile. Le attività sono visibili. I tempi sono chiari. Alcune azioni partono immediatamente mentre altre informazioni continuano ad arrivare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il piano non viene considerato sacro. Se la realtà cambia, cambia anche il piano. Se una decisione era sbagliata, viene corretta. Non serve trovare un colpevole per poter cambiare direzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Commerciale, progettazione, produzione, qualità e finanza continuano ad avere competenze e prospettive differenti, ma smettono di comportarsi come piccoli Stati indipendenti. Cominciano a muoversi come parti dello stesso sistema."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non abbiamo creato una caserma. Abbiamo creato un’organizzazione capace di agire."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è forse questa la domanda più utile che una cultura operativa può lasciare a un manager civile: **se siamo davvero un’unica azienda, perché è necessario spendere così tanta energia per convincerci a muoverci nella stessa direzione?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "E subito dopo ne arriva un’altra: **quanto tempo stiamo utilizzando per aspettare informazioni che non cambieranno realmente ciò che sappiamo già di dover fare?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "La risposta non si trova nella disciplina. Si trova nella qualità dell’organizzazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché una missione non è la frase appesa alla parete. Esiste quando permette alle persone di capire cosa viene prima e cosa viene dopo, quale interesse locale deve cedere, quali informazioni sono sufficienti, chi deve decidere e quando è arrivato il momento di smettere di analizzare e iniziare ad agire."
+      },
+      {
+        "type": "paragraph",
+        "text": "È in quel momento che un gruppo di persone smette di essere semplicemente un insieme di funzioni. E comincia davvero a diventare un organismo."
+      },
+      {
+        "type": "heading",
+        "text": "Fonti e riferimenti"
+      },
+      {
+        "type": "paragraph",
+        "text": "NATO / UK Ministry of Defence, Allied Joint Publication AJP-01, Allied Joint Doctrine, Edition F Version 1. https://www.gov.uk/government/publications/ajp-01-d-allied-joint-doctrine"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amazon, Leadership Principles: Bias for Action; Have Backbone, Disagree and Commit. https://www.aboutamazon.com/about-us/leadership-principles"
+      },
+      {
+        "type": "paragraph",
+        "text": "Jeff Bezos, 2016 Letter to Amazon Shareholders. https://www.aboutamazon.com/news/company-news/2016-letter-to-shareholders"
+      },
+      {
+        "type": "paragraph",
+        "text": "Amazon Jobs, Military Careers at Amazon. https://www.amazon.jobs/content/en/career-programs/military"
+      },
+      {
+        "type": "paragraph",
+        "text": "Efraim Benmelech, Carola Frydman, Military CEOs, NBER Working Paper 19782. https://www.nber.org/papers/w19782"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ying Hao, Junyi Li, Juan Ni, Ziqi Yin, Can military executives improve corporate performance? Evidence from industrial competitive pressure, Pacific-Basin Finance Journal, 2023. https://www.sciencedirect.com/science/article/pii/S0927538X2300118X"
+      },
+      {
+        "type": "paragraph",
+        "text": "Dipartimento della Protezione Civile, Comitato Operativo per piano vaccinale, 6 marzo 2021. https://www.protezionecivile.gov.it/en/comunicato-stampa/protezione-civile--comitato-operativo-per-piano-vaccinale-/"
+      },
+      {
+        "type": "paragraph",
+        "text": "W. Edwards Deming Institute, Optimize the Overall System Not the Individual Components. https://deming.org/optimize-the-overall-system-not-the-individual-components/"
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmtmp54ir00qjb87khjm376f0",
     "slug": "pl-la-commessa-migliore-potrebbe-avere-il-margine-peggiore-lefa9x",
     "title": "P&L La commessa migliore potrebbe avere il margine peggiore",
