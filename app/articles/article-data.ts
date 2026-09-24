@@ -1,5 +1,94 @@
 export const articles = [
   {
+    "id": "cmufqafqu000w7k7kqepq9s7k",
+    "slug": "il-ruolo-invisibile-dietro-una-fabbrica-che-scala-strzsy",
+    "title": "Il ruolo invisibile dietro una fabbrica che scala",
+    "subtitle": "Non è il capo dell’IT e non è un direttore tecnico con un titolo inglese. Nella manifattura il CTO dovrebbe governare ciò che accade tra prodotto, fabbrica, dati, persone e organizzazione.",
+    "abstract": "Non è il capo dell’IT e non è un direttore tecnico con un titolo inglese. Nella manifattura il CTO dovrebbe governare ciò che accade tra prodotto, fabbrica, dati, persone e organizzazione.",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Il ruolo invisibile dietro una fabbrica che scala",
+    "seoDescription": "Non è il capo dell’IT e non è un direttore tecnico con un titolo inglese. Nella manifattura il CTO dovrebbe governare ciò che accade tra prodotto, fabbrica, dat",
+    "publishedAt": "2026-09-24T16:11:00.095Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/il-ruolo-invisibile-dietro-una-fabbrica-che-scala-strzsy/cover.png",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Il CTO che manca in fabbrica"
+      },
+      {
+        "type": "paragraph",
+        "text": "**Non è il capo dell’IT e non è un direttore tecnico con un titolo inglese. Nella manifattura il CTO dovrebbe governare ciò che accade tra prodotto, fabbrica, dati, persone e organizzazione.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Una nuova macchina entra in stabilimento. È più veloce, più precisa, più connessa della precedente. Nel frattempo l’azienda implementa un ERP, introduce un PDM, parla di MES e comincia a sperimentare l’intelligenza artificiale. Sulla carta è una trasformazione tecnologica. Poi una commessa urgente cambia priorità, una revisione non arriva in produzione, il materiale viene acquistato ma non è disponibile quando serve e qualcuno risolve tutto con una telefonata. A quel punto la domanda non è più quanta tecnologia possiede quell’azienda. La domanda è **chi sta governando il sistema nel quale tutta quella tecnologia dovrebbe funzionare**."
+      },
+      {
+        "type": "paragraph",
+        "text": "È qui che il significato di Chief Technology Officer cambia radicalmente rispetto all’immaginario costruito dalle technology company. Nel digitale la tecnologia può coincidere con il prodotto: codice, piattaforme, infrastrutture, algoritmi e dati costituiscono direttamente ciò che l’azienda vende. Nella manifattura, invece, la tecnologia assume una forma molto più estesa: materiali, robotica, processi, macchine, prodotto, software e sistemi informativi convivono nella stessa catena del valore. McKinsey sottolinea proprio questa ambiguità del termine, ricordando che “technology” può indicare tanto l’IT quanto la scienza dei materiali, la robotica e i processi industriali, e assegna al CTO la responsabilità di comprendere le discontinuità tecnologiche e agire trasversalmente sull’organizzazione. È una definizione che sposta immediatamente il CTO fuori dalla sala server."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il primo errore, però, sarebbe immaginare questa trasversalità come una nuova superdirezione. Il CTO non deve diventare contemporaneamente capo della Produzione, dell’Ufficio Tecnico, della Qualità, degli Acquisti, del Magazzino e dell’IT. Quelle funzioni devono continuare ad avere responsabilità chiare. Il suo territorio è più sottile e, forse proprio per questo, più difficile da governare: sono **le connessioni tra le funzioni**. Una modifica progettuale può alterare una distinta, cambiare un acquisto, generare una diversa lavorazione, richiedere un’attrezzatura e arrivare infine sul prodotto installato dal cliente. Il progettista può aver impiegato venti minuti; l’azienda può impiegare settimane per assorbirne le conseguenze. È in quella distanza fra decisione tecnica ed effetto industriale che il CTO comincia realmente a lavorare."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per questo la sua prima tecnologia potrebbe non essere affatto un software, ma **l’organizzazione**. Chi possiede il dato? Chi può cambiare una priorità? Chi autorizza una deroga? Dove termina la responsabilità dell’engineering e comincia quella della produzione? Cosa succede quando due commesse competono per la stessa risorsa? Sono domande di governance prima ancora che digitali. Deloitte, nella sua Smart Manufacturing Survey 2025 condotta su 600 executive di grandi aziende manifatturiere, rileva che la trasformazione attraversa stabilimenti, supply chain e ambienti IT/OT, e che il 52% degli intervistati ha costituito un team centrale o un gruppo di lavoro dedicato proprio a sviluppare e distribuire iniziative di smart manufacturing. La tecnologia obbliga quindi l’organizzazione a ripensare sé stessa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo stesso vale per il prodotto. Molto del costo futuro di ciò che una fabbrica produrrà viene deciso quando ancora non esiste alcun pezzo: numero di componenti, materiali, tolleranze, modularità, varianti, standard, make or buy, facilità di assemblaggio e possibilità di riutilizzare ciò che è già stato progettato. Una scelta perfettamente corretta dal punto di vista tecnico può diventare pessima dal punto di vista industriale. Il CTO non deve necessariamente disegnare quel componente, ma deve essere abbastanza vicino al prodotto da chiedere quale effetto produrrà su acquisti, scorte, attrezzature, tempi, qualità e manutenzione. Lo stesso ragionamento vale per l’industrializzazione: una macchina che raddoppia la velocità di una lavorazione non crea capacità se il collo di bottiglia si sposta semplicemente al processo successivo. Il vero oggetto della tecnologia, quindi, non è la macchina: **è la capacità dell’intero sistema di produrre meglio**."
+      },
+      {
+        "type": "paragraph",
+        "text": "Solo dopo arrivano ERP, MES, PDM, PLM, CAD, business intelligence e intelligenza artificiale. Ed è qui che molte trasformazioni si inceppano, perché sistemi differenti finiscono per rappresentare versioni differenti della stessa azienda. Il codice che identifica un prodotto, la sua distinta, la revisione, il ciclo, il dato raccolto in officina e il costo registrato dal gestionale dovrebbero appartenere a una sola catena informativa. McKinsey individua proprio nei silos fra Information Technology e Operational Technology una delle cause che impediscono alle iniziative digitali industriali di scalare: dati frammentati, processi sovrapposti, traduzioni manuali e sistemi non interconnessi. La stessa analisi indica come primo fondamento della convergenza IT/OT una governance comune, seguita dall’armonizzazione dei processi e da KPI condivisi. Non è quindi sufficiente collegare tecnicamente due sistemi; bisogna prima fare in modo che l’organizzazione concordi su **che cosa significhi il dato che quei sistemi si stanno scambiando**."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi c’è qualcosa di ancora meno visibile: la capacità. Nelle aziende si sente dire continuamente che un reparto è saturo, che l’Ufficio Tecnico non ce la fa, che una commessa deve passare davanti o che manca personale. Sono spesso valutazioni corrette, ma rimangono percezioni finché non vengono trasformate in ore disponibili, competenze, carichi, macchine, materiali, dipendenze, fornitori e scadenze. Pianificare significa accettare che le risorse siano finite e decidere dove utilizzarle. Lo stesso principio dovrebbe guidare gli investimenti: non comprare tecnologia perché è migliore della precedente, ma perché rimuove un vincolo reale, riduce un lead time, libera capacità, aumenta la qualità o permette all’azienda di fare qualcosa che prima non poteva fare. Le Lighthouse industriali studiate dal World Economic Forum mostrano infatti trasformazioni che non vengono misurate attraverso il numero di tecnologie installate, ma attraverso produttività, resilienza della supply chain, qualità, sviluppo delle persone e riduzione dei tempi."
+      },
+      {
+        "type": "paragraph",
+        "text": "A questo punto appare un’altra infrastruttura che nessun software riesce a sostituire: le persone. Ogni fabbrica ha qualcuno che “sa come si fa”, qualcuno che ricorda perché un componente venne modificato anni prima, qualcuno che riconosce un problema dal rumore di una macchina e qualcuno che conosce tutte le eccezioni di un processo mai realmente documentato. È conoscenza industriale, ma spesso esiste soltanto nella memoria individuale. La standardizzazione, la formazione, la documentazione e i sistemi digitali servono anche a trasformare una parte di quella conoscenza in patrimonio dell’organizzazione, senza pretendere di eliminare il valore dell’esperienza. Non è casuale che il World Economic Forum abbia ormai inserito esplicitamente il talento tra le dimensioni della trasformazione manifatturiera e riconosca stabilimenti che intervengono su progettazione del lavoro, pianificazione delle competenze e sviluppo delle persone. Una fabbrica non diventa più solida perché possiede più dati; diventa più solida quando **dipende meno dal fatto che la persona giusta si ricordi la risposta al momento giusto**."
+      },
+      {
+        "type": "paragraph",
+        "text": "Rimane infine la parte sulla quale falliscono molte trasformazioni: fare in modo che l’azienda lavori davvero in maniera diversa. Una procedura pubblicata non è un processo, un ERP avviato non è un’organizzazione trasformata e una dashboard non produce automaticamente decisioni migliori. Bisogna introdurre le nuove regole, osservare le deviazioni, capire quali eccezioni siano reali e quali siano soltanto il ritorno delle vecchie abitudini. Bisogna anche essere disposti a scoprire che il processo progettato sulla carta non funziona e modificarlo. McKinsey osserva che per scalare l’Industrial IoT non basta l’architettura tecnologica: servono cambiamenti nelle strutture organizzative, nei ruoli, nelle modalità di collaborazione e nelle competenze; Deloitte identifica allo stesso modo change management e adozione tra le difficoltà concrete della trasformazione manifatturiera. **Un processo non cambia quando viene scritto. Cambia quando l’organizzazione smette di poter lavorare come lavorava prima.**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Torniamo allora alla macchina nuova con cui siamo entrati in fabbrica. Può essere un investimento eccellente. Anche ERP, MES, PDM e intelligenza artificiale possono esserlo. Ma se prodotto, persone, dati, processi, fabbrica e organizzazione continuano a evolvere separatamente, avremo semplicemente costruito un’azienda più tecnologica, non necessariamente un’azienda migliore. È forse questa la responsabilità più difficile da spiegare del CTO manifatturiero: non portare più tecnologia nell’impresa, ma decidere **dove la tecnologia deve modificare il sistema industriale e assicurarsi che quella modifica attraversi davvero tutta l’organizzazione**. Per un CEO, la domanda quindi non dovrebbe essere soltanto «chi gestisce la nostra tecnologia?». Dovrebbe essere molto più scomoda: **chi sta progettando il modo in cui questa azienda dovrà funzionare quando sarà più grande, più complessa e più veloce di oggi?**"
+      },
+      {
+        "type": "heading",
+        "text": "Fonti essenziali"
+      },
+      {
+        "type": "paragraph",
+        "text": "McKinsey & Company, *Why you need a CTO—and how to make her successful*, 2018. https://www.mckinsey.com/capabilities/operations/our-insights/why-you-need-a-cto-and-how-to-make-her-successful"
+      },
+      {
+        "type": "paragraph",
+        "text": "McKinsey & Company, *What are the responsibilities of a CIO versus a CTO?*, 2023. https://www.mckinsey.com/featured-insights/mckinsey-explainers/what-are-the-responsibilities-of-a-cio-versus-a-cto"
+      },
+      {
+        "type": "paragraph",
+        "text": "McKinsey & Company, *Converge IT and OT to turbocharge business operations' scaling power*, 2022. https://www.mckinsey.com/capabilities/operations/our-insights/converge-it-and-ot-to-turbocharge-business-operations-scaling-power"
+      },
+      {
+        "type": "paragraph",
+        "text": "Deloitte, *2025 Smart Manufacturing and Operations Survey*, ricerca su 600 executive manifatturieri. https://www.deloitte.com/us/en/insights/industry/manufacturing/2025-smart-manufacturing-survey.html"
+      },
+      {
+        "type": "paragraph",
+        "text": "World Economic Forum, *Global Lighthouse Network*, aggiornamenti 2025 sulla trasformazione manifatturiera su scala. https://www.weforum.org/press/2025/09/global-lighthouse-network-2025-world-economic-forum-recognizes-12-new-sites-driving-holistic-transformation-in-manufacturing/"
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmu3qbwil0004yg7k1kuwncrt",
     "slug": "se-sappiamo-cosa-fare-perche-non-lo-facciamo-iu0gl3",
     "title": "Se sappiamo cosa fare, perché non lo facciamo?",
