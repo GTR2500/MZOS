@@ -1,5 +1,422 @@
 export const articles = [
   {
+    "id": "cmui8ti7c001q7k7kjpcbvgov",
+    "slug": "il-prezzo-e-solo-lultima-riga-ssu636",
+    "title": "Il prezzo è solo l’ultima riga",
+    "subtitle": "Operations strategy, capacità industriale, integrazione verticale e management",
+    "abstract": "Operations strategy, capacità industriale, integrazione verticale e management",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Il prezzo è solo l’ultima riga",
+    "seoDescription": "Operations strategy, capacità industriale, integrazione verticale e management",
+    "publishedAt": "2026-09-26T10:24:53.393Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/il-prezzo-e-solo-lultima-riga-ssu636/cover.png",
+    "blocks": [
+      {
+        "type": "heading",
+        "text": "Il prezzo è solo l’ultima riga"
+      },
+      {
+        "type": "paragraph",
+        "text": "Ci sono decisioni aziendali che sembrano semplici proprio perché qualcuno, prima, ha assorbito tutta la loro complessità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il tetto annunciato da Eni sui carburanti Enilive appartiene probabilmente a questa categoria. Per il cliente è immediato: arriva al distributore, guarda il cartello e decide se fermarsi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma se lavori nell’industria, dopo qualche secondo nasce una domanda diversa."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Come fai a prometterlo?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Abbassare un prezzo oggi non è particolarmente difficile. Il problema è poter continuare a sostenerlo domani, mentre cambiano quotazioni, disponibilità, costi logistici, approvvigionamenti e volumi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è qui che questa vicenda smette di essere soltanto una notizia sui carburanti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Diventa una storia di management."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non conosco il modello interno con cui Eni ha costruito questa decisione e sarebbe scorretto fingere di conoscerlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma avrei voluto essere seduto a quel tavolo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non tanto per ascoltare la discussione sul numero finale. Quello, probabilmente, è soltanto il risultato visibile di una quantità molto più grande di decisioni prese prima."
+      },
+      {
+        "type": "paragraph",
+        "text": "Avrei voluto capire quali scenari avessero davanti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Come abbiano valutato la volatilità del mercato, quali rischi abbiano deciso di assumersi e quanto spazio abbiano trovato all’interno della propria catena del valore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Soprattutto, avrei voluto ascoltare la risposta a una domanda che raramente compare nei comunicati stampa:"
+      },
+      {
+        "type": "paragraph",
+        "text": "**quanto ci fidiamo della nostra macchina operativa?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Perché un consiglio di amministrazione può approvare quasi qualunque strategia."
+      },
+      {
+        "type": "paragraph",
+        "text": "Poi arriva lunedì mattina e qualcuno deve riuscire a farla funzionare."
+      },
+      {
+        "type": "paragraph",
+        "text": "È questa distanza tra decisione ed esecuzione che distingue una strategia interessante da una presentazione interessante."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eni stessa collega il proprio intervento all’andamento degli approvvigionamenti, alla riduzione dell’offerta internazionale di prodotti raffinati e alla capacità di raffinazione disponibile in Europa. Dichiara inoltre di avere già assorbito nei mesi precedenti una parte dell’aumento delle quotazioni invece di trasferirlo integralmente sui prezzi consigliati."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo non ci permette di conoscere il calcolo economico interno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ci permette però di vedere il problema industriale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una grande impresa energetica non osserva soltanto il distributore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Osserva approvvigionamento, trading, raffinazione, infrastrutture, depositi, trasporti, rete commerciale, capitale e rischio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il cliente non deve vedere tutto questo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Anzi, probabilmente una delle caratteristiche di una buona organizzazione è esattamente il contrario: trasformare una complessità enorme in qualcosa di estremamente semplice per chi sta dall’altra parte."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un prezzo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una data di consegna."
+      },
+      {
+        "type": "paragraph",
+        "text": "Una qualità promessa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un tempo di risposta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Dietro ognuna di queste cose esiste una macchina."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è quella macchina che determina quanto puoi permetterti di promettere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo principio non nasce con Eni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Già nel 1969 Wickham Skinner scriveva su Harvard Business Review che la produzione non è una funzione neutrale dell’impresa. Le decisioni apparentemente operative possono finire per ampliare oppure limitare per anni le possibilità strategiche dell’azienda."
+      },
+      {
+        "type": "paragraph",
+        "text": "Wheelwright e Hayes portarono il ragionamento ancora più avanti."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nel loro modello più evoluto, manufacturing non si limita a supportare la strategia: la capacità produttiva diventa una delle ragioni per cui quella strategia può esistere e può essere difficile da imitare."
+      },
+      {
+        "type": "paragraph",
+        "text": "È una distinzione enorme."
+      },
+      {
+        "type": "paragraph",
+        "text": "In un’impresa il management decide cosa vuole fare e poi chiede all’organizzazione di adeguarsi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nell’altra, il management conosce talmente bene le capacità costruite nell’organizzazione da poter prendere decisioni che un concorrente non riuscirebbe a sostenere semplicemente copiandole."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo cambia anche il modo di leggere l’efficienza."
+      },
+      {
+        "type": "paragraph",
+        "text": "Siamo abituati a chiedere a ogni funzione di migliorare il proprio risultato. Sembra logico, ma un sistema industriale non funziona necessariamente così."
+      },
+      {
+        "type": "paragraph",
+        "text": "Gli acquisti possono comprare meno caro e contemporaneamente peggiorare la produzione."
+      },
+      {
+        "type": "paragraph",
+        "text": "La produzione può aumentare la propria efficienza e creare più scorte del necessario. La finanza può ridurre il capitale circolante e rendere contemporaneamente più fragile la supply chain."
+      },
+      {
+        "type": "paragraph",
+        "text": "Tutti possono raggiungere il proprio KPI."
+      },
+      {
+        "type": "paragraph",
+        "text": "E l’azienda può stare peggio."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il MIT tratta infatti Operations Strategy come un insieme coerente di decisioni su capacità, integrazione verticale, sourcing, tecnologia, sistemi informativi, strutture produttive e logistica. La questione non è ottenere il massimo da ognuna separatamente, ma costruire capacità coerenti con ciò che l’impresa vuole offrire al mercato."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questa è forse la parte più interessante del caso."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un singolo segmento della catena può anche accettare un risultato economicamente meno brillante se il sistema complessivo ne ricava qualcosa di maggiore."
+      },
+      {
+        "type": "paragraph",
+        "text": "Costco lo rende particolarmente evidente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nei propri documenti societari dichiara che il carburante genera normalmente una percentuale di margine lordo inferiore rispetto alle attività non fuel. Nello stesso documento afferma però che l’offerta di carburante contribuisce ad aumentare il traffico nei warehouse."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se osservassi soltanto il margine del carburante, potresti quindi giudicare male quella scelta."
+      },
+      {
+        "type": "paragraph",
+        "text": "Se allarghi il campo e consideri traffico, acquisti, membership e relazione con il cliente, la stessa decisione assume un significato differente."
+      },
+      {
+        "type": "paragraph",
+        "text": "La domanda diventa allora molto semplice:"
+      },
+      {
+        "type": "paragraph",
+        "text": "**qual è realmente l’unità economica che stiamo cercando di ottimizzare?**"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il singolo prodotto?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il singolo reparto?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Il singolo stabilimento?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oppure l’impresa?"
+      },
+      {
+        "type": "paragraph",
+        "text": "È una domanda apparentemente banale che cambia completamente il modo di governare Operations."
+      },
+      {
+        "type": "paragraph",
+        "text": "Anche Delta Air Lines offre un esempio interessante."
+      },
+      {
+        "type": "paragraph",
+        "text": "Nel 2012 una compagnia aerea acquistò una raffineria. Vista superficialmente, sembra quasi una deviazione dal proprio mestiere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Uno studio pubblicato successivamente su *Financial Management* ha invece analizzato quell’operazione come una forma di integrazione verticale capace di modificare l’esposizione dell’impresa al rischio legato al prezzo degli input. Dopo l’acquisizione, gli autori rilevarono una diminuzione relativa dell’esposizione ai margini di raffinazione, della volatilità dei cash flow, del costo del debito e della probabilità di default."
+      },
+      {
+        "type": "paragraph",
+        "text": "Delta non aveva semplicemente deciso di possedere una raffineria."
+      },
+      {
+        "type": "paragraph",
+        "text": "Aveva guardato un problema operativo un anello più indietro nella catena."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è una delle domande che trovo più utili nel management industriale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando qualcosa diventa un vincolo, siamo sicuri che il problema sia davvero nel punto in cui lo vediamo?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Oppure stiamo osservando soltanto l’effetto finale di qualcosa che nasce molto prima?"
+      },
+      {
+        "type": "paragraph",
+        "text": "È anche per questo che considero riduttivo separare nettamente strategia e Operations."
+      },
+      {
+        "type": "paragraph",
+        "text": "La rappresentazione classica vede il vertice decidere e la struttura eseguire. Nelle organizzazioni industrialmente mature, il rapporto è molto più interessante."
+      },
+      {
+        "type": "paragraph",
+        "text": "La strategia influenza le capacità che decidiamo di costruire."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma, con il tempo, quelle capacità determinano anche quali strategie possiamo permetterci."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un concorrente può copiare un prezzo abbastanza rapidamente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Può copiare una campagna commerciale e probabilmente anche molte caratteristiche di un prodotto."
+      },
+      {
+        "type": "paragraph",
+        "text": "È molto più difficile copiare rapidamente una rete di competenze, asset, processi, fornitori, informazioni, disciplina operativa e capitale costruita nel corso degli anni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è qui che torno a Eni."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non so se dietro questa scelta prevalgano considerazioni di volume, quota di mercato, relazione con il cliente, protezione della rete, posizionamento di Enilive o gestione economica dell’intera catena."
+      },
+      {
+        "type": "paragraph",
+        "text": "Attribuire dall’esterno una di queste intenzioni come certe sarebbe narrativa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma non è necessario conoscere la risposta per trovare interessante la domanda."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per assumersi pubblicamente un impegno mentre il mercato rimane volatile bisogna sapere qualcosa sulla propria capacità di reggere quell’impegno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Bisogna sapere fin dove può arrivare la macchina."
+      },
+      {
+        "type": "paragraph",
+        "text": "C’è poi un ultimo elemento che riguarda l’italianità."
+      },
+      {
+        "type": "paragraph",
+        "text": "Preferisco non intenderla come una bandiera appesa a una campagna di comunicazione. Mi interessa molto di più quando diventa capacità industriale reale."
+      },
+      {
+        "type": "paragraph",
+        "text": "Un’impresa assume un ruolo sistemico quando possiede competenze, infrastrutture, capitale e capacità operativa sufficienti per incidere realmente sull’ambiente economico nel quale opera."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eni presenta esplicitamente questa iniziativa anche come un contributo al Paese, ai consumatori e alla propria clientela. Questo non rende automaticamente la decisione altruistica, né deve esserlo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Interesse dell’impresa e beneficio per il sistema economico possono convivere."
+      },
+      {
+        "type": "paragraph",
+        "text": "Anzi, quando l’allineamento funziona davvero, probabilmente siamo davanti alla forma più interessante di politica industriale aziendale: quella che non ha bisogno di sacrificare l’impresa per produrre un beneficio all’esterno."
+      },
+      {
+        "type": "paragraph",
+        "text": "Alla fine rimane il cartello che vede il cliente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Pochi numeri."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ma forse la parte interessante è proprio ciò che non compare su quel cartello."
+      },
+      {
+        "type": "paragraph",
+        "text": "Le decisioni migliori spesso sembrano semplici perché qualcuno ha già affrontato la complessità prima che arrivasse al cliente."
+      },
+      {
+        "type": "paragraph",
+        "text": "Ed è anche per questo che avrei voluto essere seduto a quel tavolo."
+      },
+      {
+        "type": "paragraph",
+        "text": "Non per scoprire quale numero avrebbero scelto."
+      },
+      {
+        "type": "paragraph",
+        "text": "**Per capire quale macchina industriale ha permesso loro di sceglierlo.**"
+      },
+      {
+        "type": "heading",
+        "text": "Fonti"
+      },
+      {
+        "type": "paragraph",
+        "text": "Eni, *Eni for Italy: starting September 28, a price cap on diesel and petrol for 30 days*, comunicato del 25 settembre 2026. https://www.eni.com/en-IT/media/press-release/2026/09/pr-eni-starting-september-28-price-cap-diesel-petrol.html"
+      },
+      {
+        "type": "paragraph",
+        "text": "Reuters, Francesca Landini, *Italy's Eni caps fuel prices as Meloni struggles to tame rising costs*, 25 settembre 2026. https://live.euronext.com/en/financial-news/italys-eni-caps-fuel-prices-meloni-struggles-tame-rising-costs"
+      },
+      {
+        "type": "paragraph",
+        "text": "Wickham Skinner, *Manufacturing—Missing Link in Corporate Strategy*, Harvard Business Review, maggio 1969. https://hbr.org/1969/05/manufacturing-missing-link-in-corporate-strategy"
+      },
+      {
+        "type": "paragraph",
+        "text": "Steven C. Wheelwright, Robert H. Hayes, *Competing Through Manufacturing*, Harvard Business Review, gennaio 1985. https://hbr.org/1985/01/competing-through-manufacturing"
+      },
+      {
+        "type": "paragraph",
+        "text": "MIT Sloan School of Management, *Operations Strategy*, materiali su capacità, vertical integration, sourcing, information systems e logistics. https://ocw.mit.edu/courses/15-769-operations-strategy-fall-2010/"
+      },
+      {
+        "type": "paragraph",
+        "text": "Almansur, Megginson, Pugachev, *Vertical integration as an input price hedge: The case of Delta Air Lines and Trainer refinery*, Financial Management, 2020. https://onlinelibrary.wiley.com/doi/10.1111/fima.12260"
+      },
+      {
+        "type": "paragraph",
+        "text": "Costco Wholesale Corporation, documentazione societaria depositata presso la SEC, 2026, sezione relativa al gasoline business e al traffico nei warehouse. https://www.sec.gov/Archives/edgar/data/909832/000090983226000029/cost-20260215.htm"
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmufqafqu000w7k7kqepq9s7k",
     "slug": "il-ruolo-invisibile-dietro-una-fabbrica-che-scala-strzsy",
     "title": "Il ruolo invisibile dietro una fabbrica che scala",
