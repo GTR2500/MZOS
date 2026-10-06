@@ -1,5 +1,94 @@
 export const articles = [
   {
+    "id": "cmuwrhzm1000bi87kfkj71dfe",
+    "slug": "quando-ogni-sistema-ha-la-sua-verita-lnct7t",
+    "title": "Quando ogni sistema ha la sua verità",
+    "subtitle": "Un componente non è la stessa cosa per tutta l’azienda.",
+    "abstract": "Un componente non è la stessa cosa per tutta l’azienda.",
+    "author": "Manuel Zago",
+    "category": "Editorial",
+    "seoTitle": "Quando ogni sistema ha la sua verità",
+    "seoDescription": "Un componente non è la stessa cosa per tutta l’azienda.",
+    "publishedAt": "2026-10-06T14:16:29.766Z",
+    "linkedinUrl": null,
+    "cover": "/MZOS/assets/articles/quando-ogni-sistema-ha-la-sua-verita-lnct7t/cover.png",
+    "blocks": [
+      {
+        "type": "paragraph",
+        "text": "Un componente non è la stessa cosa per tutta l’azienda. Per chi lo progetta è una geometria, una revisione, una distinta e una serie di vincoli tecnici. Per chi lo acquista è un fornitore, un prezzo e un tempo di approvvigionamento. Per la produzione è qualcosa da costruire. Per il magazzino è una quantità disponibile. Per il commerciale può diventare un ricambio. Nessuna di queste letture è sbagliata. Il problema nasce quando l’impresa non ha stabilito quale sistema abbia il diritto di dichiarare vera ciascuna informazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Molte aziende iniziano a occuparsi di questo tema solo quando introducono un nuovo ERP, un PLM, un MES o un magazzino automatico. Fino a quel momento le incoerenze possono rimanere nascoste dentro procedure informali, fogli Excel, abitudini consolidate e correzioni fatte dalle persone. Quando i sistemi cominciano invece a comunicare tra loro, l’ambiguità diventa visibile. Un codice esiste in più archivi. Una descrizione viene modificata in un sistema ma non in un altro. Una distinta tecnica racconta una cosa e quella produttiva ne racconta un’altra. Una revisione viene aggiornata, ma non è immediatamente chiaro quali processi debbano ricevere quella modifica."
+      },
+      {
+        "type": "paragraph",
+        "text": "È facile chiamare tutto questo “problema di integrazione”. Spesso non lo è. Integrare due sistemi significa permettere loro di scambiarsi informazioni. Prima, però, bisogna decidere quale dei due abbia autorità su quelle informazioni. Se questa decisione manca, l’integrazione non risolve l’ambiguità: la distribuisce più velocemente."
+      },
+      {
+        "type": "paragraph",
+        "text": "La questione diventa evidente osservando un semplice codice articolo. Il codice dovrebbe identificare un oggetto. Ma nel tempo tende ad accumulare altri significati: può indicare se il componente è acquistato o prodotto, se appartiene a una famiglia, se è un ricambio, se viene utilizzato su una determinata macchina o se segue un particolare processo. Ogni nuova esigenza sembra giustificare un’informazione in più dentro quel codice. Il risultato è che l’identità dell’oggetto e il modo in cui l’azienda lo utilizza iniziano a confondersi."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il problema non è trovare una codifica più intelligente. È separare correttamente le responsabilità dell’informazione. Un oggetto deve avere un’identità stabile. Il fatto che venga acquistato, prodotto, venduto come ricambio o utilizzato in configurazioni differenti appartiene invece alla sua relazione con i processi aziendali. Sono informazioni entrambe necessarie, ma non sono la stessa informazione. Confonderle significa rendere fragile qualsiasi sistema che dovrà utilizzarle in futuro."
+      },
+      {
+        "type": "paragraph",
+        "text": "È qui che il PLM assume un ruolo interessante. Non perché debba diventare il contenitore universale dell’azienda, ma perché può governare una domanda precisa: che cosa è questo prodotto, come è composto, come cambia e quale versione deve essere considerata valida. È una responsabilità diversa da quella dell’ERP, che governa quantità, ordini, costi e approvvigionamenti, o da quella del MES, che governa l’esecuzione produttiva. Il valore non nasce dal concentrare tutto in un unico sistema, ma dall’evitare che più sistemi rivendichino contemporaneamente la proprietà della stessa informazione."
+      },
+      {
+        "type": "paragraph",
+        "text": "Questo principio sembra ovvio finché non arriva una modifica. Un progettista cambia un componente. La nuova revisione viene approvata. Da quel momento iniziano le domande vere. La modifica vale anche per gli ordini già aperti? Le scorte della revisione precedente possono essere utilizzate? Il ricambio deve seguire la nuova configurazione? La distinta produttiva deve essere aggiornata immediatamente o da una certa matricola? Il service deve continuare a riconoscere entrambe le versioni?"
+      },
+      {
+        "type": "paragraph",
+        "text": "A quel punto non esiste più un semplice “dato tecnico”. Esiste una decisione industriale che attraversa progettazione, pianificazione, produzione, acquisti, magazzino e assistenza. Se nessuno ha definito chi possiede quella decisione e come deve propagarsi, ogni funzione tenderà a costruire una propria risposta. Ed è così che una stessa azienda può arrivare ad avere più versioni coerenti della realtà, tutte corrette localmente e incompatibili tra loro."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il vero problema dei dati industriali nasce spesso qui. Non nella loro assenza, ma nell’assenza di autorità. L’impresa possiede molte informazioni, ma non sempre ha definito quali siano quelle ufficiali, chi possa modificarle e quale sistema debba distribuirle agli altri."
+      },
+      {
+        "type": "paragraph",
+        "text": "Da un punto di vista manageriale, questa distinzione è decisiva. Ogni informazione critica dovrebbe avere un proprietario e ogni sistema dovrebbe avere un perimetro chiaro. Non significa costruire confini rigidi tra reparti. Significa impedire che responsabilità diverse si sovrappongano senza controllo. La progettazione può essere responsabile dell’identità tecnica e della struttura del prodotto. L’ERP può essere responsabile delle condizioni economiche e della disponibilità. La produzione può essere responsabile dell’avanzamento reale. Il magazzino può essere responsabile della posizione fisica e delle movimentazioni. Nessuno di questi sistemi possiede l’intero prodotto. Ognuno ne possiede una parte precisa."
+      },
+      {
+        "type": "paragraph",
+        "text": "Quando questa architettura non esiste, l’azienda tende a reagire aggiungendo controlli. Si introducono verifiche manuali, campi duplicati, autorizzazioni supplementari e procedure di riconciliazione. Funzionano, ma spesso stanno solo compensando il fatto che due sistemi stanno cercando di essere contemporaneamente fonte della stessa informazione. Più aumenta la complessità, più aumenta il bisogno di controllare ciò che dovrebbe essere già univoco."
+      },
+      {
+        "type": "paragraph",
+        "text": "La soluzione non consiste quindi nel centralizzare tutto. Sarebbe semplicemente un’altra forma di semplificazione sbagliata. Un’impresa industriale complessa ha bisogno di sistemi specializzati. Il punto è farli lavorare secondo una gerarchia dell’informazione comprensibile. Ogni dato dovrebbe nascere nel luogo in cui viene realmente deciso, essere modificato da chi ne possiede la responsabilità e raggiungere gli altri sistemi senza perdere il proprio significato."
+      },
+      {
+        "type": "paragraph",
+        "text": "È questo che distingue una semplice integrazione software da un’architettura industriale. Nel primo caso si collegano applicazioni. Nel secondo si decide come deve viaggiare la realtà dell’azienda."
+      },
+      {
+        "type": "paragraph",
+        "text": "Il PLM, letto in questa prospettiva, non è quindi il sistema che deve contenere tutto. È uno degli strumenti con cui l’impresa può stabilire una fonte autorevole per l’identità e l’evoluzione del prodotto. Il suo valore cresce quando ciò che viene deciso a monte può essere utilizzato a valle senza essere continuamente reinterpretato, riscritto o ricostruito."
+      },
+      {
+        "type": "paragraph",
+        "text": "Lo stesso principio vale oltre il PLM. Vale per le anagrafiche, per le scorte, per i cicli, per le revisioni, per i costi e per qualsiasi informazione che attraversi più funzioni. La domanda da porre non è soltanto “dove si trova questo dato?”, ma “chi ha il diritto di determinarlo?”. È una domanda meno tecnica e molto più scomoda, perché obbliga l’organizzazione a parlare di responsabilità prima ancora che di software."
+      },
+      {
+        "type": "paragraph",
+        "text": "Eppure è proprio questa chiarezza a rendere possibile l’automazione. Un sistema può eseguire una regola solo quando l’azienda ha deciso quale sia la regola e da quale fonte debba provenire. Senza questa scelta, l’automazione non elimina il disordine. Lo accelera."
+      },
+      {
+        "type": "paragraph",
+        "text": "Per questo, prima di collegare un nuovo sistema al resto della fabbrica, vale la pena porre una domanda semplice: quale verità deve possedere?"
+      },
+      {
+        "type": "paragraph",
+        "text": "Se la risposta non è chiara, probabilmente il problema non è ancora tecnologico."
+      }
+    ],
+    "metrics": null
+  },
+  {
     "id": "cmui8ti7c001q7k7kjpcbvgov",
     "slug": "il-prezzo-e-solo-lultima-riga-ssu636",
     "title": "Il prezzo è solo l’ultima riga",
